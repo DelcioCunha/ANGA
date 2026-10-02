@@ -1,0 +1,286 @@
+{
+  "name": "Aliança Nacional de Guildas Angolanas",
+  "shortName": "ANGA",
+  "tagline": "Um por todos, todos por Angola.",
+  "game": "Free Fire",
+  "country": "Angola",
+  "founded": "2026",
+  "founder": {
+    "name": "Delcio Cunha",
+    "role": "Dono e Fundador da Aliança",
+    "whatsapp": "244947976103",
+    "whatsappDisplay": "+244 947 976 103"
+  },
+  "whatsapp": {
+    "number": "244947976103",
+    "display": "+244 947 976 103",
+    "defaultMessage": "Olá! Vim pelo website da Aliança Nacional de Guildas Angolanas e quero saber mais.",
+    "joinMessage": "Olá! Quero entrar na Aliança Nacional de Guildas Angolanas. Como faço?",
+    "guildMessage": "Olá! Sou líder de uma guilda e quero inscrever a minha guilda na Aliança.",
+    "marketMessage": "Olá! Tenho interesse no Mercado da Aliança.",
+    "communityLink": ""
+  },
+  "social": [
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "url": "https://wa.me/244947976103",
+      "active": true
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "url": "",
+      "active": false
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "",
+      "active": false
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "url": "",
+      "active": false
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "url": "",
+      "active": false
+    }
+  ],
+  "hero": {
+    "eyebrow": "Comunidade oficial · Free Fire · Angola",
+    "title": [
+      "Aliança Nacional",
+      "de Guildas Angolanas"
+    ],
+    "subtitle": "1709 membros, 32 grupos e 24 guildas na Liga Aliança. A casa do Free Fire angolano — competição, mercado de confiança e irmandade, com uma só bandeira.",
+    "primaryCta": {
+      "label": "Entrar na Aliança",
+      "action": "join"
+    },
+    "secondaryCta": {
+      "label": "Ver a Liga Aliança",
+      "to": "/liga"
+    }
+  },
+  "intro": {
+    "title": "Mais do que uma comunidade. Uma Aliança.",
+    "text": "A ANGA nasceu para conectar as guildas de Free Fire em Angola, promovendo interação, conhecimento e competitividade. Hoje reúne 1709 membros em 32 grupos, organiza a Liga Aliança e mantém um Mercado com vendedores verificados. Cada guilda mantém a sua identidade — e ganha uma família maior.",
+    "pillars": [
+      {
+        "icon": "trophy",
+        "title": "Liga Aliança",
+        "text": "24 guildas, rodada após rodada, na maior competição da comunidade."
+      },
+      {
+        "icon": "cart",
+        "title": "Mercado da Aliança",
+        "text": "Diamantes, passes e mais, com vendedores verificados e selos de cliente."
+      },
+      {
+        "icon": "users",
+        "title": "32 grupos",
+        "text": "Salões, grupos de guilda, Liga e Mercado — tudo organizado no WhatsApp."
+      },
+      {
+        "icon": "star",
+        "title": "Identidade angolana",
+        "text": "Um por todos, todos por Angola. Orgulho nacional dentro e fora do jogo."
+      }
+    ]
+  },
+  "about": {
+    "history": [
+      "A comunidade começou por se chamar Organização Nacional de Guildas Angolanas (ONGA). Ainda antes da mensagem de fundação, o nome mudou para o definitivo: Aliança Nacional de Guildas Angolanas — a ANGA.",
+      "No dia da inauguração, o fundador Delcio Cunha publicou nos Comunicados: “Hoje nasce a Aliança Nacional de Guildas Angolanas”. Os primeiros membros vieram da guilda ANGOMONARCAS e, logo a seguir, foram criados os primeiros grupos, como o Salão da Monarquia.",
+      "Em janeiro de 2026 arrancou a primeira temporada da Liga Free Fire da Aliança. Rodada após rodada, a Liga cresceu até reunir 24 guildas na tabela.",
+      "Em agosto de 2026 nasceu o Programa de Selos de Clientes do Mercado da Aliança. Hoje a comunidade conta com 1709 membros e 32 grupos — e este website é a sua primeira casa digital oficial."
+    ],
+    "inauguration": {
+      "quote": "Hoje nasce a Aliança Nacional de Guildas Angolanas",
+      "image": "/assets/community/inauguracao.webp",
+      "text": "A mensagem de fundação, publicada pelo administrador da comunidade nos Comunicados, com os primeiros membros adicionados — quase todos da ANGOMONARCAS."
+    },
+    "halls": [
+      {
+        "id": "adms",
+        "title": "Salão dos ADMS",
+        "image": "/assets/community/salao-dos-adms.webp",
+        "text": "Onde a liderança da Aliança se reúne: líderes, vice-líderes e administradores das guildas decidem o rumo da comunidade."
+      },
+      {
+        "id": "membros",
+        "title": "Salão de Membros",
+        "image": "/assets/community/salao-de-membros.webp",
+        "text": "O grande salão de todos os membros, onde as guildas se encontram, conversam e recebem os anúncios da Aliança."
+      }
+    ],
+    "mission": "Conectar as guildas de Free Fire em Angola, promovendo interação, conhecimento e competitividade num ambiente justo e respeitoso.",
+    "vision": "Ser a maior aliança de guildas de Free Fire de Angola — reconhecida pela sua Liga, pelo seu Mercado de confiança e pela união dos seus membros.",
+    "objectives": [
+      "Reunir as guildas angolanas numa estrutura comum",
+      "Organizar a Liga Aliança e levá-la até às 25 rodadas por temporada",
+      "Manter um Mercado seguro, com vendedores verificados e selos de cliente",
+      "Registar e celebrar campeões, troféus e recordes",
+      "Dar visibilidade às guildas e jogadores angolanos",
+      "Promover respeito, foco, união, disciplina e honra"
+    ],
+    "structure": [
+      {
+        "level": "Fundação",
+        "title": "Fundador & Administrador da comunidade",
+        "text": "Delcio Cunha — criou a Aliança, define a visão e tem a palavra final."
+      },
+      {
+        "level": "Salão dos ADMS",
+        "title": "Administração",
+        "text": "ADMs da Aliança e das guildas: coordenam grupos, Liga, Mercado e aplicação das regras."
+      },
+      {
+        "level": "Guildas",
+        "title": "Líderes e Vice-líderes",
+        "text": "Representam a sua guilda dentro da Aliança e respondem pelos seus membros."
+      },
+      {
+        "level": "Salão de Membros",
+        "title": "Membros",
+        "text": "Os jogadores das guildas filiadas — o coração da Aliança."
+      }
+    ],
+    "values": [
+      {
+        "title": "Respeito",
+        "text": "Entre jogadores, guildas e administração. Sempre."
+      },
+      {
+        "title": "Foco",
+        "text": "Cada ponto conta. Cada partida faz a diferença."
+      },
+      {
+        "title": "União",
+        "text": "Juntos somos mais fortes. Rivais no mapa, irmãos na Aliança."
+      },
+      {
+        "title": "Disciplina",
+        "text": "Planear, executar e vencer — dentro das regras."
+      },
+      {
+        "title": "Honra",
+        "text": "Representar a guilda e Angola com orgulho."
+      }
+    ]
+  },
+  "join": {
+    "title": "Como participar",
+    "steps": [
+      {
+        "title": "Fala connosco",
+        "text": "Envia uma mensagem pelo WhatsApp oficial da Aliança."
+      },
+      {
+        "title": "Apresenta-te",
+        "text": "Diz o teu nick, ID do Free Fire e, se tiveres, a tua guilda."
+      },
+      {
+        "title": "Lê as regras",
+        "text": "Todos os membros aceitam o regulamento da Aliança."
+      },
+      {
+        "title": "Entra no grupo",
+        "text": "Recebes o acesso aos grupos oficiais e começas a participar."
+      }
+    ]
+  },
+  "cta": {
+    "title": "A tua guilda merece estar na Aliança.",
+    "text": "Seja jogador individual ou líder de guilda, há lugar para ti entre os 1709 membros da ANGA. O primeiro passo é uma mensagem no WhatsApp."
+  },
+  "nav": [
+    {
+      "to": "/",
+      "label": "Início"
+    },
+    {
+      "to": "/sobre",
+      "label": "Sobre"
+    },
+    {
+      "to": "/liga",
+      "label": "Liga"
+    },
+    {
+      "to": "/guildas",
+      "label": "Guildas"
+    },
+    {
+      "to": "/guildas/expulsas",
+      "label": "Guildas expulsas"
+    },
+    {
+      "to": "/mercado",
+      "label": "Mercado"
+    },
+    {
+      "to": "/eventos",
+      "label": "Eventos"
+    },
+    {
+      "to": "/galeria",
+      "label": "Galeria"
+    },
+    {
+      "to": "/trofeus",
+      "label": "Troféus"
+    },
+    {
+      "to": "/recordes",
+      "label": "Recordes"
+    },
+    {
+      "to": "/noticias",
+      "label": "Notícias"
+    },
+    {
+      "to": "/regras",
+      "label": "Regras"
+    },
+    {
+      "to": "/contactos",
+      "label": "Contactos"
+    }
+  ],
+  "contentNotice": "",
+  "logo": "/assets/branding/anga-logo.webp",
+  "logoSmall": "/assets/branding/anga-logo-sm.webp",
+  "slogans": [
+    "Um por todos, todos por Angola",
+    "Juntos somos mais fortes",
+    "Rumo ao topo!"
+  ],
+  "community": {
+    "platform": "WhatsApp",
+    "members": 1709,
+    "groups": 32,
+    "updated": "2026-10-02",
+    "formerNames": [
+      "Organização Nacional de Guildas Angolanas",
+      "Organização Nacional de Guildas Angolanas (ONGA)"
+    ],
+    "description": "Somos uma forte comunidade criada para conectar as guildas de Free Fire em Angola, promovendo interação, conhecimento e a competitividade.",
+    "profileImage": "/assets/community/comunidade-whatsapp.webp"
+  },
+  "expelledStatement": {
+    "lead": "As guildas que a Aliança expulsou. Ficam registadas aqui para que a comunidade não esqueça.",
+    "body": [
+      "Estas guildas passaram pela Aliança Nacional de Guildas Angolanas e foram expulsas.",
+      "Não cumpriram as regras, faltaram ao respeito à comunidade e não deram nada de positivo à Aliança. Com isso perderam o respeito e a admiração de todos — e o lugar que tinham entre nós. Muitas delas já nem existem.",
+      "Este registo é permanente. Serve de memória e de aviso: na ANGA, quem não honra a Aliança não fica."
+    ],
+    "note": "Expulsões decididas pela administração da Aliança, segundo o regulamento."
+  }
+}

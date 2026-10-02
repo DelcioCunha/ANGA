@@ -1,0 +1,41 @@
+[
+  {
+    "id": "campeao-liga-t1",
+    "title": "Campeão da Liga Aliança",
+    "tier": "legend",
+    "player": "",
+    "guild": "",
+    "event": "Liga Aliança — Temporada 1",
+    "date": "",
+    "image": "",
+    "description": "O troféu máximo da Aliança. Decide-se no fim da Rodada 25.",
+    "example": false,
+    "vacant": true
+  },
+  {
+    "id": "vice-liga-t1",
+    "title": "Vice-campeão da Liga Aliança",
+    "tier": "gold",
+    "player": "",
+    "guild": "",
+    "event": "Liga Aliança — Temporada 1",
+    "date": "",
+    "image": "",
+    "description": "",
+    "example": false,
+    "vacant": true
+  },
+  {
+    "id": "terceiro-liga-t1",
+    "title": "3º lugar da Liga Aliança",
+    "tier": "silver",
+    "player": "",
+    "guild": "",
+    "event": "Liga Aliança — Temporada 1",
+    "date": "",
+    "image": "",
+    "description": "",
+    "example": false,
+    "vacant": true
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "website-oficial-lancado",
+    "title": "A Aliança tem a sua primeira casa digital",
+    "date": "2026-10-02",
+    "category": "Aliança",
+    "image": "/assets/community/salao-de-membros.webp",
+    "excerpt": "O website oficial da ANGA está no ar: a Liga Aliança com a tabela atualizada, as 24 guildas, o Mercado com preços e selos, e a história da comunidade.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas tem, a partir de hoje, o seu website oficial.",
+      "Aqui encontras a Liga Aliança com a tabela e todas as rodadas, as 24 guildas participantes, o Mercado da Aliança com a tabela de preços e o Programa de Selos, a galeria da comunidade e o regulamento.",
+      "A comunidade continua a viver no WhatsApp — o website é a montra oficial e o ponto de entrada para quem quer fazer parte."
+    ],
+    "featured": true,
+    "example": false
+  },
+  {
+    "id": "salao-de-guildas-atualizado",
+    "title": "Salão de Guildas: líderes e membros das 24 guildas",
+    "date": "2026-10-02",
+    "category": "Guildas",
+    "image": "/assets/community/salao-de-membros.webp",
+    "excerpt": "Cada guilda da Aliança tem agora o seu líder, a data de criação do grupo e o número de membros no website.",
+    "body": [
+      "O Salão de Guildas foi atualizado com os dados dos grupos de cada guilda a 2 de outubro de 2026.",
+      "A (HSR) HASHIRAS é a maior guilda, com 42 membros no grupo. A ANGOMONARCAS, criada a 3 de junho de 2024 por Delcio Cunha, é a guilda mais antiga da Aliança.",
+      "Na página das Guildas podes ordenar por posição na Liga, número de membros ou antiguidade."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "tabela-liga-02-10",
+    "title": "ANGOMONARCAS lidera a Liga Aliança com 45 pontos",
+    "date": "2026-10-02",
+    "category": "Liga",
+    "image": "/assets/league/liga-temporada-1.webp",
+    "excerpt": "Tabela atualizada a 2 de outubro: ANGOMONARCAS (45), NASA E-S (33) e DARK PRIME (24) formam o pódio provisório da Temporada 1.",
+    "body": [
+      "A tabela oficial da 1ª Fase da Temporada 1 foi atualizada a 2 de outubro de 2026.",
+      "A ANGOMONARCAS lidera com 45 pontos em 19 jogos (15 vitórias e 48 salas ganhas). Segue-se a NASA E-S com 33 pontos e a DARK PRIME com 24.",
+      "A ANGO FIRE continua sem derrotas: 7 vitórias em 9 jogos, com 21 pontos.",
+      "Ao todo, 24 guildas já pontuaram ou entraram em campo. A temporada vai até à Rodada 25."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "rodada-20-comecou",
+    "title": "Rodada 20: que vença o melhor",
+    "date": "2026-09-30",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r20-inicio.webp",
+    "excerpt": "Começou a Rodada 20 da Liga Aliança. Faltam cinco rodadas para o fim da Temporada 1.",
+    "body": [
+      "A Rodada 20 da Liga Aliança já está em andamento.",
+      "Depois de 19 rodadas de muito esforço, a disputa entra na reta final: a temporada termina na Rodada 25."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "fim-rodada-19",
+    "title": "Fim da Rodada 19: bom trabalho a todos",
+    "date": "2026-09-29",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r19-fim.webp",
+    "excerpt": "Mais uma rodada concluída. 19 rodadas de esforço, mais união entre os membros e mais aprendizado em cada jogo.",
+    "body": [
+      "A Rodada 19 da Liga Aliança terminou.",
+      "A união continua e os resultados também. Até à próxima rodada!"
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "mercado-nova-tabela",
+    "title": "Mercado da Aliança atualiza a tabela de preços",
+    "date": "2026-09-28",
+    "category": "Mercado",
+    "image": "/assets/market/tabela-de-precos.webp",
+    "excerpt": "Novos preços para diamantes, pacotes de nível, assinaturas, Passe Booyah e Trilha da Evolução — com o mesmo compromisso de qualidade e segurança.",
+    "body": [
+      "O Mercado da Aliança atualizou a sua tabela de preços.",
+      "A administração mantém o compromisso: qualidade, segurança e o melhor atendimento para cada cliente.",
+      "Consulta todos os preços na página do Mercado e faz o teu pedido pelo WhatsApp."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "programa-de-selos",
+    "title": "Nasce o Programa de Selos de Clientes",
+    "date": "2026-08-05",
+    "category": "Mercado",
+    "image": "/assets/market/programa-de-selos.webp",
+    "excerpt": "Compre, evolua, colecione e seja reconhecido: a cada compra no Mercado, o cliente sobe de nível.",
+    "body": [
+      "O Mercado da Aliança lançou o Programa de Selos de Clientes.",
+      "A primeira compra dá o selo Cliente Novo (nível 1), a segunda o selo Cliente Ativo (nível 2) e a terceira o selo Cliente Frequente (nível 3). Há mais níveis por desbloquear.",
+      "Cada selo é entregue no grupo, junto com a mensagem de parabéns da Aliança."
+    ],
+    "featured": false,
+    "example": false
+  }
+]

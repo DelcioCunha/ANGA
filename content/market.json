@@ -1,0 +1,319 @@
+{
+  "title": "Mercado da Aliança",
+  "tagline": "Compra · Venda · Troque com segurança",
+  "logo": "/assets/branding/mercado-logo.webp",
+  "description": "O mercado oficial da comunidade, dentro do grupo Mercado da Aliança no WhatsApp. Diamantes, pacotes de nível, assinaturas e passes, com vendedores verificados e a administração a acompanhar cada compra.",
+  "guarantees": [
+    {
+      "icon": "shield",
+      "title": "Venda segura",
+      "text": "Compras feitas dentro do grupo, à vista da administração."
+    },
+    {
+      "icon": "users",
+      "title": "Suporte da Aliança",
+      "text": "A administração acompanha do pedido à entrega."
+    },
+    {
+      "icon": "bolt",
+      "title": "Entrega rápida",
+      "text": "O vendedor confirma no grupo assim que o carregamento é feito."
+    },
+    {
+      "icon": "clock",
+      "title": "Atendimento 24 horas",
+      "text": "Faz o teu pedido a qualquer hora pelo WhatsApp."
+    }
+  ],
+  "pricesUpdated": "2026-09-28",
+  "currency": "Kz",
+  "priceTable": "/assets/market/tabela-de-precos.webp",
+  "priceGroups": [
+    {
+      "id": "diamantes",
+      "title": "Pacotes de Diamantes",
+      "subtitle": "Mais diamantes, mais possibilidades",
+      "color": "#38bdf8",
+      "icon": "gem",
+      "items": [
+        {
+          "name": "65 + 13 diamantes",
+          "price": 1200
+        },
+        {
+          "name": "100 + 20 diamantes",
+          "price": 1560
+        },
+        {
+          "name": "310 + 62 diamantes",
+          "price": 4440
+        },
+        {
+          "name": "520 + 104 diamantes",
+          "price": 6600
+        },
+        {
+          "name": "1.060 + 212 diamantes",
+          "price": 14400
+        },
+        {
+          "name": "2.180 + 436 diamantes",
+          "price": 26760
+        },
+        {
+          "name": "5.600 + 1.120 diamantes",
+          "price": 62400
+        }
+      ]
+    },
+    {
+      "id": "nivel",
+      "title": "Pacotes de Nível",
+      "subtitle": "Apenas diamantes (sem bónus)",
+      "color": "#a855f7",
+      "icon": "star",
+      "items": [
+        {
+          "name": "Nível 6",
+          "detail": "120 diamantes",
+          "price": 1200
+        },
+        {
+          "name": "Nível 10",
+          "detail": "200 diamantes",
+          "price": 1560
+        },
+        {
+          "name": "Nível 15",
+          "detail": "200 diamantes",
+          "price": 1560
+        },
+        {
+          "name": "Nível 20",
+          "detail": "200 diamantes",
+          "price": 1560
+        },
+        {
+          "name": "Nível 25",
+          "detail": "200 diamantes",
+          "price": 1560
+        },
+        {
+          "name": "Nível 30",
+          "detail": "350 diamantes",
+          "price": 2400
+        }
+      ]
+    },
+    {
+      "id": "assinaturas",
+      "title": "Assinaturas & Passe",
+      "subtitle": "Benefícios exclusivos para a tua conta",
+      "color": "#f5b301",
+      "icon": "calendar",
+      "items": [
+        {
+          "name": "Assinatura Mensal",
+          "price": 13800
+        },
+        {
+          "name": "Assinatura Semanal",
+          "price": 3120
+        },
+        {
+          "name": "Assinatura Económica",
+          "price": 720
+        },
+        {
+          "name": "Passe Booyah",
+          "price": 2160
+        }
+      ]
+    },
+    {
+      "id": "trilha",
+      "title": "Trilha da Evolução",
+      "subtitle": "Evolui e desbloqueia recompensas exclusivas",
+      "color": "#ef4444",
+      "icon": "flame",
+      "items": [
+        {
+          "name": "Trilha 3 dias",
+          "price": 900
+        },
+        {
+          "name": "Trilha 7 dias",
+          "price": 1440
+        },
+        {
+          "name": "Trilha 30 dias",
+          "price": 4200
+        }
+      ]
+    }
+  ],
+  "sellers": [
+    {
+      "id": "kwanza-recargas",
+      "name": "KWANZA_RECARGAS",
+      "role": "Vendedor de diamantes",
+      "text": "Recargas de diamantes, passes e assinaturas. Entrega confirmada no grupo com “Carregamento feito”.",
+      "verified": true
+    },
+    {
+      "id": "bamby",
+      "name": "BAMBY",
+      "role": "Vendedor de luvas · Parceiro",
+      "text": "Luvas de dedo para jogar no telemóvel. Parceiro oficial do Mercado.",
+      "verified": true
+    }
+  ],
+  "howItWorks": [
+    {
+      "title": "Faz o pedido",
+      "text": "Envia uma mensagem à administração com o que queres comprar."
+    },
+    {
+      "title": "Entras no grupo",
+      "text": "A administração adiciona-te ao grupo Mercado da Aliança, com o vendedor verificado."
+    },
+    {
+      "title": "Pagas e recebes",
+      "text": "Combinas o pagamento com o vendedor no grupo. Ele confirma quando o carregamento é feito."
+    },
+    {
+      "title": "Ganhas o teu selo",
+      "text": "A compra é celebrada no grupo e recebes o selo do teu nível de cliente."
+    }
+  ],
+  "badges": {
+    "title": "Programa de Selos de Clientes",
+    "motto": "Compre · Evolua · Colecione · Seja reconhecido",
+    "text": "No Mercado da Aliança, cada compra não é apenas uma conquista: é um passo para te tornares um cliente ainda mais especial. A cada compra sobes de nível e recebes um selo exclusivo.",
+    "poster": "/assets/market/programa-de-selos.webp",
+    "levels": [
+      {
+        "level": 1,
+        "title": "Cliente Novo",
+        "requirement": "Primeira compra realizada",
+        "tone": "gold"
+      },
+      {
+        "level": 2,
+        "title": "Cliente Ativo",
+        "requirement": "Duas compras realizadas",
+        "tone": "purple"
+      },
+      {
+        "level": 3,
+        "title": "Cliente Frequente",
+        "requirement": "3 compras realizadas",
+        "tone": "fire"
+      }
+    ],
+    "lockedLevels": 7,
+    "holders": [
+      {
+        "id": "fernando",
+        "name": "Fernando",
+        "level": 3,
+        "badges": [
+          "/assets/market/selos/selo-fernando-n1.webp",
+          "/assets/market/selos/selo-fernando-n2.webp",
+          "/assets/market/selos/selo-fernando-n3.webp"
+        ]
+      },
+      {
+        "id": "laurifreezy",
+        "name": "LauriFreezy",
+        "level": 3,
+        "badges": [
+          "/assets/market/selos/selo-laurifreezy-n2.webp",
+          "/assets/market/selos/selo-laurifreezy-n3.webp"
+        ]
+      },
+      {
+        "id": "luis",
+        "name": "Luís",
+        "level": 1,
+        "badges": [
+          "/assets/market/selos/selo-luis-n1.webp"
+        ]
+      },
+      {
+        "id": "delcio",
+        "name": "Délcio",
+        "level": 1,
+        "badges": [
+          "/assets/market/selos/selo-delcio-n1.webp"
+        ]
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": "luis",
+      "name": "Luís",
+      "label": "Cliente · luvas",
+      "level": 1,
+      "quote": "Produto top. Conforto e precisão melhores no jogo. Chegou rápido também. Aprovado",
+      "image": "/assets/market/provas/conversa-luis-luvas.webp"
+    },
+    {
+      "id": "laurifreezy",
+      "name": "LauriFreezy",
+      "label": "Cliente nível 3 · Passe Booyah",
+      "level": 3,
+      "quote": "Valeu manos, está confirmado o passe… valeu pela ajuda",
+      "image": "/assets/market/provas/conversa-laurifreezy-passe.webp"
+    },
+    {
+      "id": "laurifreezy-2",
+      "name": "LauriFreezy",
+      "label": "Ao receber o selo de nível 2",
+      "level": 2,
+      "quote": "Muito obrigado, fico feliz só de ouvir isso, agradeço imenso",
+      "image": "/assets/market/provas/conversa-laurifreezy-nivel-2.webp"
+    }
+  ],
+  "proofs": [
+    {
+      "id": "fernando-diamantes",
+      "title": "Fernando — carregamento de diamantes confirmado",
+      "image": "/assets/market/provas/conversa-fernando-diamantes.webp"
+    },
+    {
+      "id": "fernando-n3",
+      "title": "Fernando — terceira compra e selo de nível 3",
+      "image": "/assets/market/provas/conversa-fernando-nivel-3.webp"
+    },
+    {
+      "id": "laurifreezy-n3",
+      "title": "LauriFreezy — pedido do Passe Booyah e selo de nível 3",
+      "image": "/assets/market/provas/conversa-laurifreezy-nivel-3.webp"
+    },
+    {
+      "id": "laurifreezy-passe",
+      "title": "LauriFreezy — passe entregue e confirmado",
+      "image": "/assets/market/provas/conversa-laurifreezy-passe.webp"
+    },
+    {
+      "id": "luis-luvas",
+      "title": "Luís — feedback das luvas",
+      "image": "/assets/market/provas/conversa-luis-luvas.webp"
+    }
+  ],
+  "video": {
+    "title": "Diamantes do Mercado em ação no jogo",
+    "src": "/assets/market/provas/vira-carta-video.mp4",
+    "poster": "/assets/market/provas/vira-carta-video-capa.webp",
+    "text": "Um cliente usa os diamantes comprados no Mercado no evento Vira-Carta e recebe o conjunto completo."
+  },
+  "safety": [
+    "Compra apenas dentro do grupo Mercado da Aliança, com vendedores verificados.",
+    "Nunca partilhes a tua senha, e-mail ou códigos de verificação.",
+    "Confirma sempre no grupo quando o carregamento for feito.",
+    "Desconfia de quem te contacta fora do grupo a oferecer preços mais baixos.",
+    "Burlas resultam em expulsão imediata e permanente da Aliança."
+  ]
+}

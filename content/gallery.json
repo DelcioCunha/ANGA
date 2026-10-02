@@ -1,0 +1,94 @@
+[
+  {
+    "id": "comunidade",
+    "title": "Comunidade",
+    "items": [
+      {
+        "id": "logo",
+        "title": "Brasão da ANGA",
+        "image": "/assets/branding/anga-logo.webp"
+      },
+      {
+        "id": "salao-adms",
+        "title": "Salão dos ADMS",
+        "image": "/assets/community/salao-dos-adms.webp"
+      },
+      {
+        "id": "salao-membros",
+        "title": "Salão de Membros",
+        "image": "/assets/community/salao-de-membros.webp"
+      },
+      {
+        "id": "inauguracao",
+        "title": "Inauguração — “Hoje nasce a Aliança”",
+        "image": "/assets/community/inauguracao.webp"
+      },
+      {
+        "id": "whatsapp",
+        "title": "A comunidade no WhatsApp — 1709 membros, 32 grupos",
+        "image": "/assets/community/comunidade-whatsapp.webp"
+      }
+    ]
+  },
+  {
+    "id": "mercado",
+    "title": "Mercado da Aliança",
+    "items": [
+      {
+        "id": "mercado-logo",
+        "title": "Mercado da Aliança",
+        "image": "/assets/branding/mercado-logo.webp"
+      },
+      {
+        "id": "programa",
+        "title": "Programa de Selos de Clientes",
+        "image": "/assets/market/programa-de-selos.webp"
+      },
+      {
+        "id": "precos",
+        "title": "Tabela de preços (28/09/2026)",
+        "image": "/assets/market/tabela-de-precos.webp"
+      },
+      {
+        "id": "selo-fernando-3",
+        "title": "Selo nível 3 — Fernando",
+        "image": "/assets/market/selos/selo-fernando-n3.webp"
+      },
+      {
+        "id": "selo-laurifreezy-3",
+        "title": "Selo nível 3 — LauriFreezy",
+        "image": "/assets/market/selos/selo-laurifreezy-n3.webp"
+      },
+      {
+        "id": "selo-fernando-2",
+        "title": "Selo nível 2 — Fernando",
+        "image": "/assets/market/selos/selo-fernando-n2.webp"
+      },
+      {
+        "id": "selo-laurifreezy-2",
+        "title": "Selo nível 2 — LauriFreezy",
+        "image": "/assets/market/selos/selo-laurifreezy-n2.webp"
+      },
+      {
+        "id": "selo-fernando-1",
+        "title": "Selo nível 1 — Fernando",
+        "image": "/assets/market/selos/selo-fernando-n1.webp"
+      },
+      {
+        "id": "selo-luis-1",
+        "title": "Selo nível 1 — Luís",
+        "image": "/assets/market/selos/selo-luis-n1.webp"
+      },
+      {
+        "id": "selo-delcio-1",
+        "title": "Selo nível 1 — Délcio",
+        "image": "/assets/market/selos/selo-delcio-n1.webp"
+      },
+      {
+        "id": "vira-carta",
+        "title": "Diamantes do Mercado em ação: conjunto do Vira-Carta",
+        "image": "/assets/market/provas/vira-carta-conjunto.webp"
+      }
+    ]
+  }
+]

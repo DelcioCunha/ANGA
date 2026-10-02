@@ -1,0 +1,44 @@
+ALIANÇA NACIONAL DE GUILDAS ANGOLANAS — WEBSITE V1
+==================================================
+
+VER O SITE AGORA (sem instalar nada)
+------------------------------------
+Abre a pasta  site  e faz duplo clique em  index.html
+Funciona em qualquer navegador (Chrome, Edge, Firefox, Safari), também sem internet
+(sem internet o site usa as letras do sistema em vez das letras Chakra Petch/Inter).
+
+ATENÇÃO: o ficheiro  website\index.html  é o ficheiro-fonte do React.
+Ele não é o site — abri-lo diretamente mostra apenas um aviso.
+
+
+PUBLICAR NA INTERNET
+--------------------
+Envia o conteúdo da pasta  site  (index.html + pasta assets) para qualquer
+alojamento estático: Netlify (arrastar a pasta para app.netlify.com/drop),
+Vercel, GitHub Pages, Cloudflare Pages ou cPanel. Não precisa de servidor.
+
+
+EDITAR E DESENVOLVER (precisa do Node.js — https://nodejs.org, versão LTS)
+--------------------------------------------------------------------------
+Windows:
+  1-INSTALAR.bat      → instala as dependências (só a primeira vez)
+  2-DESENVOLVER.bat   → abre o site em modo de edição, atualiza ao vivo
+  3-GERAR-SITE.bat    → valida o conteúdo e gera de novo a pasta site\
+
+Mac / Linux (no terminal):
+  cd website
+  npm install
+  npm run dev        (desenvolvimento)
+  npm run build      (gera a pasta site/)
+
+
+ONDE ESTÁ CADA COISA
+--------------------
+content\           TODOS os textos e dados (guildas, liga, eventos, troféus...)
+website\public\assets\   imagens (logos, capas, troféus...)
+website\src\       código React (componentes, páginas, estilos)
+tools\validator\   verificação automática do conteúdo
+docs\              documentação técnica
+site\              o website pronto (gerado — não editar à mão)
+
+Mais detalhes: README.md e docs\content-structure.md

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rodada-21-25",
+    "title": "Rodadas 21 a 25 — reta final da Temporada 1",
+    "date": "",
+    "time": "",
+    "image": "",
+    "category": "Liga",
+    "description": "As últimas cinco rodadas da Temporada 1 da Liga Aliança. No fim, o campeão é coroado no Salão de Troféus.",
+    "prize": "",
+    "status": "upcoming",
+    "example": false
+  },
+  {
+    "id": "rodada-20",
+    "title": "Rodada 20 — que vença o melhor",
+    "date": "2026-09-30",
+    "time": "",
+    "image": "/assets/league/rodadas/r20-inicio.webp",
+    "category": "Liga",
+    "description": "A rodada atual da Liga Aliança. 20 rodadas de muito esforço, mais união entre os membros e mais evolução em cada jogo.",
+    "prize": "",
+    "status": "live",
+    "example": false
+  },
+  {
+    "id": "nova-tabela-precos",
+    "title": "Mercado: nova tabela de preços",
+    "date": "2026-09-28",
+    "time": "",
+    "image": "/assets/market/tabela-de-precos.webp",
+    "category": "Mercado",
+    "description": "Atualização dos preços de diamantes, pacotes de nível, assinaturas, Passe Booyah e Trilha da Evolução.",
+    "prize": "",
+    "status": "past",
+    "example": false
+  },
+  {
+    "id": "programa-selos",
+    "title": "Lançamento do Programa de Selos de Clientes",
+    "date": "2026-08-05",
+    "time": "",
+    "image": "/assets/market/programa-de-selos.webp",
+    "category": "Mercado",
+    "description": "A cada compra no Mercado da Aliança, o cliente sobe de nível e recebe um selo exclusivo.",
+    "prize": "",
+    "status": "past",
+    "example": false
+  },
+  {
+    "id": "liga-regresso",
+    "title": "A Liga Aliança está de volta — 3 rodadas ao mesmo tempo",
+    "date": "2026-06-21",
+    "time": "",
+    "image": "/assets/league/rodadas/r12-14-inicio.webp",
+    "category": "Liga",
+    "description": "No regresso da Liga, as rodadas 12, 13 e 14 foram disputadas ao mesmo tempo.",
+    "prize": "",
+    "status": "past",
+    "example": false
+  },
+  {
+    "id": "liga-temporada-1",
+    "title": "Arranque da Liga Free Fire — Primeira Temporada",
+    "date": "2026-01-07",
+    "time": "",
+    "image": "/assets/league/liga-temporada-1.webp",
+    "category": "Liga",
+    "description": "Começa a primeira temporada da Liga da Aliança Nacional de Guildas Angolanas.",
+    "prize": "",
+    "status": "past",
+    "example": false
+  }
+]

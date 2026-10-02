@@ -1,0 +1,67 @@
+{
+  "intro": "Ao entrar na Aliança, cada membro e cada guilda aceita este regulamento. As regras existem para proteger a comunidade e garantir uma competição justa.",
+  "sections": [
+    {
+      "id": "conduta",
+      "title": "Conduta geral",
+      "rules": [
+        "Respeito entre todos os membros, guildas e administração.",
+        "Proibidos insultos, discriminação, ameaças ou assédio.",
+        "Proibida a partilha de conteúdo impróprio, ofensivo ou ilegal nos grupos.",
+        "Discussões entre guildas resolvem-se em privado ou com a administração — nunca no grupo geral."
+      ]
+    },
+    {
+      "id": "fair-play",
+      "title": "Fair Play",
+      "rules": [
+        "Zero tolerância a hacks, scripts, macros ou programas de terceiros.",
+        "Proibido usar emuladores em competições oficiais, salvo indicação em contrário.",
+        "Proibido combinar resultados, entregar quedas ou fazer “teaming” com outras equipas.",
+        "Bugs do jogo não devem ser explorados intencionalmente."
+      ]
+    },
+    {
+      "id": "guildas",
+      "title": "Guildas filiadas",
+      "rules": [
+        "Cada guilda tem um líder responsável perante a Aliança.",
+        "O líder mantém a administração informada sobre mudanças importantes na guilda.",
+        "As guildas mantêm a sua identidade, mas representam também a Aliança.",
+        "Transferências de jogadores entre guildas durante uma temporada da Liga seguem as regras da Liga."
+      ]
+    },
+    {
+      "id": "grupos",
+      "title": "Grupos do WhatsApp",
+      "rules": [
+        "Cada grupo tem um tema — respeita-o.",
+        "Proibido spam, correntes e publicidade sem autorização.",
+        "Links externos só com autorização da administração.",
+        "Anúncios oficiais são feitos apenas pela administração."
+      ]
+    },
+    {
+      "id": "mercado",
+      "title": "Mercado",
+      "rules": [
+        "Negócios apenas no canal oficial do Mercado.",
+        "Burlas resultam em expulsão permanente.",
+        "Proibidos negócios que violem os Termos de Serviço do Free Fire."
+      ]
+    },
+    {
+      "id": "sancoes",
+      "title": "Sanções",
+      "rules": [
+        "Advertência — para infrações leves.",
+        "Suspensão temporária dos grupos e competições.",
+        "Expulsão da Aliança — para infrações graves ou repetidas.",
+        "A administração decide as sanções; a decisão do Fundador é final."
+      ]
+    }
+  ],
+  "updated": "2026-10-02",
+  "draft": true,
+  "draftNote": "Regulamento em revisão pela administração. As regras da Liga Aliança, na página da Liga, são as oficiais."
+}

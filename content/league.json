@@ -1,0 +1,612 @@
+{
+  "name": "Liga Aliança",
+  "fullName": "Liga Free Fire da Aliança Nacional de Guildas Angolanas",
+  "tagline": "A maior competição da comunidade",
+  "description": "A Liga Aliança junta as guildas angolanas de Free Fire em confrontos 4x4 no modo Contra Squad. Cada jogo vale 3 pontos para o vencedor, rodada após rodada, até ao fim da temporada.",
+  "banner": "/assets/league/liga-temporada-1.webp",
+  "currentSeason": "temporada-1",
+  "format": [
+    {
+      "label": "Modo",
+      "value": "Contra Squad (CS) normal"
+    },
+    {
+      "label": "Equipas",
+      "value": "4x4 — só membros da guilda"
+    },
+    {
+      "label": "Cada sala",
+      "value": "7 rodadas"
+    },
+    {
+      "label": "Vitória no jogo",
+      "value": "Quem vencer 3 salas"
+    },
+    {
+      "label": "Pontos",
+      "value": "3 por jogo ganho"
+    },
+    {
+      "label": "Temporada",
+      "value": "Até 25 rodadas"
+    }
+  ],
+  "scoring": {
+    "win": 3,
+    "loss": 0,
+    "note": "O vencedor das 3 salas ganha 3 pontos, somados na tabela."
+  },
+  "rules": [
+    "Sala CS normal de 7 rodadas.",
+    "4x4: apenas membros da guilda podem jogar.",
+    "Uso de qualquer habilidade permitido.",
+    "Loja aleatória de armas.",
+    "Vence o jogo quem vencer 3 salas.",
+    "Proibido jogadores usarem emulador nos jogos.",
+    "O vencedor das 3 salas ganha 3 pontos, que são somados na tabela."
+  ],
+  "documents": [
+    {
+      "id": "regras-app",
+      "title": "Regras na app da Liga",
+      "image": "/assets/league/liga-regras-app.webp"
+    },
+    {
+      "id": "tabela-a",
+      "title": "Tabela oficial 02/10 — posições 1 a 13",
+      "image": "/assets/league/tabela-2026-10-02-a.webp"
+    },
+    {
+      "id": "tabela-b",
+      "title": "Tabela oficial 02/10 — posições 13 a 24",
+      "image": "/assets/league/tabela-2026-10-02-b.webp"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "temporada-1",
+      "name": "Temporada 1",
+      "year": "2026",
+      "start": "2026-01-07",
+      "status": "live",
+      "statusLabel": "Em curso",
+      "phase": "1ª Fase",
+      "currentRound": 20,
+      "totalRounds": 25,
+      "followers": 63,
+      "standingsUpdated": "2026-10-02",
+      "champion": "",
+      "example": false,
+      "standings": [
+        {
+          "team": "ANGOMONARCAS",
+          "guildId": "angomonarcas",
+          "points": 45,
+          "played": 19,
+          "wins": 15,
+          "losses": 4,
+          "roomsWon": 48
+        },
+        {
+          "team": "NASA E-S",
+          "guildId": "nasa-e-s",
+          "points": 33,
+          "played": 19,
+          "wins": 11,
+          "losses": 7,
+          "roomsWon": 38
+        },
+        {
+          "team": "DARK PRIME",
+          "guildId": "dark-prime",
+          "points": 24,
+          "played": 17,
+          "wins": 8,
+          "losses": 9,
+          "roomsWon": 27
+        },
+        {
+          "team": "ANGO FIRE",
+          "guildId": "ango-fire",
+          "points": 21,
+          "played": 9,
+          "wins": 7,
+          "losses": 0,
+          "roomsWon": 21
+        },
+        {
+          "team": "2.2",
+          "guildId": "dois-ponto-dois",
+          "points": 21,
+          "played": 14,
+          "wins": 7,
+          "losses": 5,
+          "roomsWon": 23
+        },
+        {
+          "team": "HASHIRAS",
+          "guildId": "hashiras",
+          "points": 18,
+          "played": 11,
+          "wins": 6,
+          "losses": 2,
+          "roomsWon": 18
+        },
+        {
+          "team": "TRAPSTAR",
+          "guildId": "trapstar",
+          "points": 15,
+          "played": 16,
+          "wins": 5,
+          "losses": 8,
+          "roomsWon": 17
+        },
+        {
+          "team": "CAPITÃO 244",
+          "guildId": "capitao-244",
+          "points": 9,
+          "played": 4,
+          "wins": 3,
+          "losses": 1,
+          "roomsWon": 9
+        },
+        {
+          "team": "DARKSHADOW",
+          "guildId": "darkshadow",
+          "points": 9,
+          "played": 8,
+          "wins": 3,
+          "losses": 5,
+          "roomsWon": 9
+        },
+        {
+          "team": "IMBONDEIROS",
+          "guildId": "imbondeiros",
+          "points": 6,
+          "played": 5,
+          "wins": 2,
+          "losses": 1,
+          "roomsWon": 6
+        },
+        {
+          "team": "TM7",
+          "guildId": "tm7",
+          "points": 6,
+          "played": 5,
+          "wins": 2,
+          "losses": 3,
+          "roomsWon": 6
+        },
+        {
+          "team": "NAKAMA FF",
+          "guildId": "nakama-ff",
+          "points": 3,
+          "played": 18,
+          "wins": 13,
+          "losses": 4,
+          "roomsWon": 42
+        },
+        {
+          "team": "HYDRA",
+          "guildId": "hydra",
+          "points": 3,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "roomsWon": 3
+        },
+        {
+          "team": "NOX U.Z.K",
+          "guildId": "nox-u-z-k",
+          "points": 3,
+          "played": 2,
+          "wins": 1,
+          "losses": 0,
+          "roomsWon": 3
+        },
+        {
+          "team": "BANDADIT",
+          "guildId": "bandadit",
+          "points": 3,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "roomsWon": 3
+        },
+        {
+          "team": "NX NEXUS",
+          "guildId": "nx-nexus",
+          "points": 3,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "roomsWon": 3
+        },
+        {
+          "team": "RAGNAROK AO",
+          "guildId": "ragnarok-ao",
+          "points": 3,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "roomsWon": 3
+        },
+        {
+          "team": "PARADOXO",
+          "guildId": "paradoxo",
+          "points": 3,
+          "played": 3,
+          "wins": 1,
+          "losses": 1,
+          "roomsWon": 3
+        },
+        {
+          "team": "ANG ESPORT",
+          "guildId": "ang-esport",
+          "points": 3,
+          "played": 3,
+          "wins": 1,
+          "losses": 1,
+          "roomsWon": 3
+        },
+        {
+          "team": "AOA 07",
+          "guildId": "aoa-07",
+          "points": 3,
+          "played": 3,
+          "wins": 1,
+          "losses": 2,
+          "roomsWon": 4
+        },
+        {
+          "team": "DC ANGOLA",
+          "guildId": "dc-angola",
+          "points": 3,
+          "played": 3,
+          "wins": 1,
+          "losses": 2,
+          "roomsWon": 3
+        },
+        {
+          "team": "DC 999",
+          "guildId": "dc-999",
+          "points": 0,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "roomsWon": 1
+        },
+        {
+          "team": "ANGO SENSI",
+          "guildId": "ango-sensi",
+          "points": 0,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "roomsWon": 0
+        },
+        {
+          "team": "TROPA DO PAU",
+          "guildId": "tropa-do-pau",
+          "points": 0,
+          "played": 2,
+          "wins": 0,
+          "losses": 2,
+          "roomsWon": 0
+        }
+      ],
+      "rounds": [
+        {
+          "id": "r02-inicio",
+          "round": "2",
+          "phase": "inicio",
+          "date": "2026-01-18",
+          "image": "/assets/league/rodadas/r02-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r02-inicio.webp",
+          "title": "Nova rodada de jogos começou",
+          "text": "Prepare a sua equipa e lute pela glória."
+        },
+        {
+          "id": "r02-fim",
+          "round": "2",
+          "phase": "fim",
+          "date": "2026-01-24",
+          "image": "/assets/league/rodadas/r02-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r02-fim.webp",
+          "title": "Fim da Rodada 2",
+          "text": "Obrigado a todos os que participaram."
+        },
+        {
+          "id": "r03-inicio",
+          "round": "3",
+          "phase": "inicio",
+          "date": "2026-02-01",
+          "image": "/assets/league/rodadas/r03-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r03-inicio.webp",
+          "title": "Rodada 3 — o cerco está a fechar",
+          "text": "Disputa pelo topo da tabela."
+        },
+        {
+          "id": "r03-fim",
+          "round": "3",
+          "phase": "fim",
+          "date": "2026-02-08",
+          "image": "/assets/league/rodadas/r03-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r03-fim.webp",
+          "title": "Rodada 3 encerrada",
+          "text": ""
+        },
+        {
+          "id": "r04-inicio",
+          "round": "4",
+          "phase": "inicio",
+          "date": "2026-02-16",
+          "image": "/assets/league/rodadas/r04-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r04-inicio.webp",
+          "title": "Rodada 4 a iniciar",
+          "text": "Que comecem os jogos."
+        },
+        {
+          "id": "r04-fim",
+          "round": "4",
+          "phase": "fim",
+          "date": "2026-02-22",
+          "image": "/assets/league/rodadas/r04-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r04-fim.webp",
+          "title": "Fim da Rodada 4",
+          "text": "Classificação atualizada."
+        },
+        {
+          "id": "r05-fim",
+          "round": "5",
+          "phase": "fim",
+          "date": "2026-03-07",
+          "image": "/assets/league/rodadas/r05-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r05-fim.webp",
+          "title": "Fim da Rodada 5",
+          "text": "Próxima etapa: Rodada 6."
+        },
+        {
+          "id": "r06-fim",
+          "round": "6",
+          "phase": "fim",
+          "date": "2026-04-05",
+          "image": "/assets/league/rodadas/r06-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r06-fim.webp",
+          "title": "Rodada 6 encerrada",
+          "text": "Obrigado a todos."
+        },
+        {
+          "id": "r07-inicio",
+          "round": "7",
+          "phase": "inicio",
+          "date": "2026-04-07",
+          "image": "/assets/league/rodadas/r07-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r07-inicio.webp",
+          "title": "Rodada 7 começou",
+          "text": "Hoje à noite — prepare-se para a batalha."
+        },
+        {
+          "id": "r07-fim",
+          "round": "7",
+          "phase": "fim",
+          "date": "2026-04-10",
+          "image": "/assets/league/rodadas/r07-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r07-fim.webp",
+          "title": "Rodada 7 chegou ao fim",
+          "text": "Obrigado pelas batalhas."
+        },
+        {
+          "id": "r08-inicio",
+          "round": "8",
+          "phase": "inicio",
+          "date": "2026-04-13",
+          "image": "/assets/league/rodadas/r08-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r08-inicio.webp",
+          "title": "Rodada 8 começou",
+          "text": ""
+        },
+        {
+          "id": "r08-fim",
+          "round": "8",
+          "phase": "fim",
+          "date": "2026-04-21",
+          "image": "/assets/league/rodadas/r08-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r08-fim.webp",
+          "title": "Rodada 8 encerrada",
+          "text": "A batalha foi forte — só os melhores sobreviveram."
+        },
+        {
+          "id": "r09-inicio",
+          "round": "9",
+          "phase": "inicio",
+          "date": "2026-04-27",
+          "image": "/assets/league/rodadas/r09-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r09-inicio.webp",
+          "title": "Rodada 9 começou",
+          "text": "Novas estratégias, novas lendas."
+        },
+        {
+          "id": "r09-fim",
+          "round": "9",
+          "phase": "fim",
+          "date": "2026-05-05",
+          "image": "/assets/league/rodadas/r09-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r09-fim.webp",
+          "title": "Rodada 9 encerrada",
+          "text": "Resultados que ficarão para a história."
+        },
+        {
+          "id": "r10-inicio",
+          "round": "10",
+          "phase": "inicio",
+          "date": "2026-05-06",
+          "image": "/assets/league/rodadas/r10-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r10-inicio.webp",
+          "title": "Rodada 10 começou",
+          "text": "A guerra evoluiu."
+        },
+        {
+          "id": "r10-fim",
+          "round": "10",
+          "phase": "fim",
+          "date": "2026-05-16",
+          "image": "/assets/league/rodadas/r10-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r10-fim.webp",
+          "title": "Rodada 10 encerrada",
+          "text": "A vitória é nossa."
+        },
+        {
+          "id": "r11-inicio",
+          "round": "11",
+          "phase": "inicio",
+          "date": "2026-05-20",
+          "image": "/assets/league/rodadas/r11-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r11-inicio.webp",
+          "title": "Rodada 11 começou",
+          "text": "Novas ameaças, novas alianças."
+        },
+        {
+          "id": "r11-fim",
+          "round": "11",
+          "phase": "fim",
+          "date": "2026-06-01",
+          "image": "/assets/league/rodadas/r11-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r11-fim.webp",
+          "title": "Rodada 11 encerrada",
+          "text": "A lenda continua."
+        },
+        {
+          "id": "r12-14-inicio",
+          "round": "12–14",
+          "phase": "inicio",
+          "date": "2026-06-21",
+          "image": "/assets/league/rodadas/r12-14-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r12-14-inicio.webp",
+          "title": "A Liga Aliança está de volta",
+          "text": "Três rodadas ao mesmo tempo: 12, 13 e 14."
+        },
+        {
+          "id": "r12-14-fim",
+          "round": "12–14",
+          "phase": "fim",
+          "date": "2026-07-14",
+          "image": "/assets/league/rodadas/r12-14-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r12-14-fim.webp",
+          "title": "Fim das Rodadas 12, 13 e 14",
+          "text": "Respeito, união e determinação."
+        },
+        {
+          "id": "r15-inicio",
+          "round": "15",
+          "phase": "inicio",
+          "date": "2026-07-20",
+          "image": "/assets/league/rodadas/r15-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r15-inicio.webp",
+          "title": "Anúncio da Rodada 15",
+          "text": "A luta continua — rumo ao topo."
+        },
+        {
+          "id": "r15-fim",
+          "round": "15",
+          "phase": "fim",
+          "date": "2026-07-27",
+          "image": "/assets/league/rodadas/r15-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r15-fim.webp",
+          "title": "Fim da Rodada 15",
+          "text": "15 rodadas concluídas."
+        },
+        {
+          "id": "r16-inicio",
+          "round": "16",
+          "phase": "inicio",
+          "date": "2026-08-05",
+          "image": "/assets/league/rodadas/r16-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r16-inicio.webp",
+          "title": "Rodada 16",
+          "text": "A disputa não para."
+        },
+        {
+          "id": "r16-fim",
+          "round": "16",
+          "phase": "fim",
+          "date": "2026-08-15",
+          "image": "/assets/league/rodadas/r16-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r16-fim.webp",
+          "title": "Fim da Rodada 16",
+          "text": ""
+        },
+        {
+          "id": "r17-inicio",
+          "round": "17",
+          "phase": "inicio",
+          "date": "2026-08-24",
+          "image": "/assets/league/rodadas/r17-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r17-inicio.webp",
+          "title": "Início da Rodada 17",
+          "text": "Uma nova rodada, novos desafios, a mesma Aliança."
+        },
+        {
+          "id": "r17-fim",
+          "round": "17",
+          "phase": "fim",
+          "date": "2026-08-30",
+          "image": "/assets/league/rodadas/r17-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r17-fim.webp",
+          "title": "Fim da Rodada 17",
+          "text": "Vitórias, aprendizados e união forjam campeões."
+        },
+        {
+          "id": "r18-inicio",
+          "round": "18",
+          "phase": "inicio",
+          "date": "2026-09-01",
+          "image": "/assets/league/rodadas/r18-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r18-inicio.webp",
+          "title": "Rodada 18",
+          "text": "Entrem em campo e façam história."
+        },
+        {
+          "id": "r18-fim",
+          "round": "18",
+          "phase": "fim",
+          "date": "2026-09-08",
+          "image": "/assets/league/rodadas/r18-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r18-fim.webp",
+          "title": "Fim da Rodada 18",
+          "text": "Bom trabalho a todos."
+        },
+        {
+          "id": "r19-inicio",
+          "round": "19",
+          "phase": "inicio",
+          "date": "2026-09-21",
+          "image": "/assets/league/rodadas/r19-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r19-inicio.webp",
+          "title": "Rodada 19",
+          "text": "Mais uma rodada, mais desafios."
+        },
+        {
+          "id": "r19-fim",
+          "round": "19",
+          "phase": "fim",
+          "date": "2026-09-29",
+          "image": "/assets/league/rodadas/r19-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r19-fim.webp",
+          "title": "Fim da Rodada 19",
+          "text": "19 rodadas de muito esforço."
+        },
+        {
+          "id": "r20-inicio",
+          "round": "20",
+          "phase": "inicio",
+          "date": "2026-09-30",
+          "image": "/assets/league/rodadas/r20-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r20-inicio.webp",
+          "title": "Rodada 20 — que vença o melhor",
+          "text": "A rodada atual da Temporada 1."
+        }
+      ]
+    }
+  ]
+}

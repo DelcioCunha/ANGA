@@ -1,0 +1,672 @@
+[
+  {
+    "id": "bil-ex",
+    "name": "BIL EX",
+    "logo": "/assets/guilds/expulsas/bil-ex.webp",
+    "groupCreated": "2026-08-04",
+    "recorded": "2026-09-10",
+    "members": 21,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "hda",
+    "name": "HDA",
+    "logo": "/assets/guilds/expulsas/hda.webp",
+    "groupCreated": "2025-12-16",
+    "recorded": "2026-09-09",
+    "members": 36,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "sic-squad",
+    "name": "SIC SQUAD",
+    "logo": "/assets/guilds/expulsas/sic-squad.webp",
+    "groupCreated": "",
+    "recorded": "2026-09-01",
+    "members": null,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ang-ranking",
+    "name": "ANG RANKING",
+    "logo": "/assets/guilds/expulsas/ang-ranking.webp",
+    "groupCreated": "2026-08-17",
+    "recorded": "2026-08-30",
+    "members": 19,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ang-elite",
+    "name": "ANG ELITE",
+    "logo": "/assets/guilds/expulsas/ang-elite.webp",
+    "groupCreated": "",
+    "recorded": "2026-08-29",
+    "members": null,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "bellatrix-3x",
+    "name": "BELLATRIX 3X",
+    "logo": "/assets/guilds/expulsas/bellatrix-3x.webp",
+    "groupCreated": "2026-05-15",
+    "recorded": "2026-08-26",
+    "members": 39,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "angola-ang-guilda",
+    "name": "ANGOLA ANG GUILDA",
+    "logo": "/assets/guilds/expulsas/angola-ang-guilda.webp",
+    "groupCreated": "2026-08-14",
+    "recorded": "2026-08-26",
+    "members": 24,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "onze",
+    "name": "ONZE",
+    "logo": "/assets/guilds/expulsas/onze.webp",
+    "groupCreated": "2026-08-05",
+    "recorded": "2026-08-25",
+    "members": 23,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "lua-de-sangue",
+    "name": "LUA DE SANGUE",
+    "logo": "/assets/guilds/expulsas/lua-de-sangue.webp",
+    "groupCreated": "2026-07-25",
+    "recorded": "2026-08-24",
+    "members": 21,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "wod-ranking",
+    "name": "WOD RANKING",
+    "logo": "/assets/guilds/expulsas/wod-ranking.webp",
+    "groupCreated": "2026-03-14",
+    "recorded": "2026-08-15",
+    "members": 20,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ao-rebelliao",
+    "name": "AO REBELLIÃO",
+    "logo": "/assets/guilds/expulsas/ao-rebelliao.webp",
+    "groupCreated": "2026-07-18",
+    "recorded": "2026-08-07",
+    "members": 31,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "os-erguidos",
+    "name": "OS ERGUIDOS",
+    "logo": "/assets/guilds/expulsas/os-erguidos.webp",
+    "groupCreated": "2026-06-22",
+    "recorded": "2026-08-05",
+    "members": 20,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "chibiru-squad",
+    "name": "CHIBIRU SQUAD",
+    "logo": "/assets/guilds/expulsas/chibiru-squad.webp",
+    "groupCreated": "2025-12-26",
+    "recorded": "2026-07-29",
+    "members": 19,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "dc-mp",
+    "name": "DC MP",
+    "logo": "/assets/guilds/expulsas/dc-mp.webp",
+    "groupCreated": "2026-07-13",
+    "recorded": "2026-07-23",
+    "members": 21,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "katsuros",
+    "name": "KATSUROS",
+    "logo": "/assets/guilds/expulsas/katsuros.webp",
+    "groupCreated": "2026-04-07",
+    "recorded": "2026-07-16",
+    "members": 22,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "outy-s1",
+    "name": "OUTY S1",
+    "logo": "/assets/guilds/expulsas/outy-s1.webp",
+    "groupCreated": "2026-06-24",
+    "recorded": "2026-07-16",
+    "members": 19,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "from-angola",
+    "name": "FROM ANGOLA",
+    "logo": "/assets/guilds/expulsas/from-angola.webp",
+    "groupCreated": "2026-05-01",
+    "recorded": "2026-05-26",
+    "members": 22,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "shadow-kings",
+    "name": "SHADOW KINGS",
+    "logo": "/assets/guilds/expulsas/shadow-kings.webp",
+    "groupCreated": "2026-04-20",
+    "recorded": "2026-05-22",
+    "members": 29,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "young-family",
+    "name": "YOUNG FAMILY",
+    "logo": "/assets/guilds/expulsas/young-family.webp",
+    "groupCreated": "2026-04-30",
+    "recorded": "2026-05-14",
+    "members": 20,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "no-mercy",
+    "name": "NO MERCY",
+    "logo": "/assets/guilds/expulsas/no-mercy.webp",
+    "groupCreated": "2026-05-03",
+    "recorded": "2026-05-07",
+    "members": 7,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "unknown",
+    "name": "UNKNOWN",
+    "logo": "/assets/guilds/expulsas/unknown.webp",
+    "groupCreated": "2025-07-17",
+    "recorded": "2026-04-30",
+    "members": 16,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "core-impact",
+    "name": "CORE IMPACT",
+    "logo": "/assets/guilds/expulsas/core-impact.webp",
+    "groupCreated": "2026-03-29",
+    "recorded": "2026-04-29",
+    "members": 25,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "akatsuki-14",
+    "name": "AKATSUKI 14",
+    "logo": "/assets/guilds/expulsas/akatsuki-14.webp",
+    "groupCreated": "2026-04-07",
+    "recorded": "2026-04-29",
+    "members": 22,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "celestial-999",
+    "name": "CELESTIAL 999",
+    "logo": "/assets/guilds/expulsas/celestial-999.webp",
+    "groupCreated": "2026-03-09",
+    "recorded": "2026-04-21",
+    "members": 14,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ethical-aoa",
+    "name": "ETHICAL AOA",
+    "logo": "/assets/guilds/expulsas/ethical-aoa.webp",
+    "groupCreated": "2025-12-31",
+    "recorded": "2026-04-21",
+    "members": 47,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "storm-squad",
+    "name": "STORM SQUAD",
+    "logo": "/assets/guilds/expulsas/storm-squad.webp",
+    "groupCreated": "2026-03-22",
+    "recorded": "2026-04-21",
+    "members": 18,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "imperiais",
+    "name": "IMPERIAIS",
+    "logo": "/assets/guilds/expulsas/imperiais.webp",
+    "groupCreated": "2026-02-18",
+    "recorded": "2026-04-10",
+    "members": null,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "thousan-suny",
+    "name": "THOUSAN SUNY",
+    "logo": "/assets/guilds/expulsas/thousan-suny.webp",
+    "groupCreated": "2025-11-02",
+    "recorded": "2026-04-10",
+    "members": 10,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "f5-overdose",
+    "name": "F5 OVERDOSE",
+    "logo": "/assets/guilds/expulsas/f5-overdose.webp",
+    "groupCreated": "2026-01-28",
+    "recorded": "2026-03-19",
+    "members": 37,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "on-fire-3",
+    "name": "ON FIRE 3",
+    "logo": "/assets/guilds/expulsas/on-fire-3.webp",
+    "groupCreated": "2025-07-13",
+    "recorded": "2026-03-19",
+    "members": 30,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "vikings-ao",
+    "name": "VIKINGS AO",
+    "logo": "/assets/guilds/expulsas/vikings-ao.webp",
+    "groupCreated": "2025-12-03",
+    "recorded": "2026-03-01",
+    "members": 14,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "okm-esport",
+    "name": "OKM ESPORT",
+    "logo": "/assets/guilds/expulsas/okm-esport.webp",
+    "groupCreated": "2025-08-27",
+    "recorded": "2026-02-25",
+    "members": 45,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "g-store",
+    "name": "G STORE",
+    "logo": "/assets/guilds/expulsas/g-store.webp",
+    "groupCreated": "2026-02-18",
+    "recorded": "2026-02-25",
+    "members": 14,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "os-anjos",
+    "name": "OS ANJOS",
+    "logo": "/assets/guilds/expulsas/os-anjos.webp",
+    "groupCreated": "2026-02-20",
+    "recorded": "2026-02-21",
+    "members": 15,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "x7-07",
+    "name": "X7-07",
+    "logo": "/assets/guilds/expulsas/x7-07.webp",
+    "groupCreated": "2025-11-26",
+    "recorded": "2026-02-21",
+    "members": 24,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "titans-africa",
+    "name": "TITANS AFRICA",
+    "logo": "/assets/guilds/expulsas/titans-africa.webp",
+    "groupCreated": "2026-02-18",
+    "recorded": "2026-02-18",
+    "members": 16,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ango-skills",
+    "name": "ANGO SKILLS",
+    "logo": "/assets/guilds/expulsas/ango-skills.webp",
+    "groupCreated": "2025-12-18",
+    "recorded": "2026-02-02",
+    "members": 27,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "the-prime",
+    "name": "THE PRIME",
+    "logo": "/assets/guilds/expulsas/the-prime.webp",
+    "groupCreated": "2026-01-26",
+    "recorded": "2026-02-02",
+    "members": 17,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "los-mafiosos",
+    "name": "LOS MAFIOSOS",
+    "logo": "/assets/guilds/expulsas/los-mafiosos.webp",
+    "groupCreated": "2025-12-15",
+    "recorded": "2026-01-31",
+    "members": 18,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "furia-pro",
+    "name": "FURIA PRO",
+    "logo": "/assets/guilds/expulsas/furia-pro.webp",
+    "groupCreated": "2025-12-30",
+    "recorded": "2026-01-31",
+    "members": 4,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ag9-angola-999",
+    "name": "AG9 ANGOLA 999",
+    "logo": "/assets/guilds/expulsas/ag9-angola-999.webp",
+    "groupCreated": "",
+    "recorded": "2026-01-27",
+    "members": null,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "black-forge",
+    "name": "BLACK FORGE",
+    "logo": "/assets/guilds/expulsas/black-forge.webp",
+    "groupCreated": "2025-12-19",
+    "recorded": "2026-01-25",
+    "members": 32,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ango-sport",
+    "name": "ANGO SPORT",
+    "logo": "/assets/guilds/expulsas/ango-sport.webp",
+    "groupCreated": "2025-08-11",
+    "recorded": "2026-01-17",
+    "members": 31,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "sem-xoro",
+    "name": "SEM XORO",
+    "logo": "/assets/guilds/expulsas/sem-xoro.webp",
+    "groupCreated": "2026-01-15",
+    "recorded": "2026-01-16",
+    "members": 13,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "yes-human",
+    "name": "YES HUMAN",
+    "logo": "/assets/guilds/expulsas/yes-human.webp",
+    "groupCreated": "2026-01-14",
+    "recorded": "2026-01-15",
+    "members": 13,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "xquad-7",
+    "name": "XQUAD 7",
+    "logo": "/assets/guilds/expulsas/xquad-7.webp",
+    "groupCreated": "2026-01-12",
+    "recorded": "2026-01-13",
+    "members": 10,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "dg-elite-001",
+    "name": "DG ELITE 001",
+    "logo": "/assets/guilds/expulsas/dg-elite-001.webp",
+    "groupCreated": "2025-12-27",
+    "recorded": "2026-01-09",
+    "members": 14,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "angola-godz",
+    "name": "ANGOLA GODZ",
+    "logo": "/assets/guilds/expulsas/angola-godz.webp",
+    "groupCreated": "2025-12-02",
+    "recorded": "2026-01-08",
+    "members": 22,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "h4rd",
+    "name": "H4RD",
+    "logo": "/assets/guilds/expulsas/h4rd.webp",
+    "groupCreated": "",
+    "recorded": "2026-01-07",
+    "members": null,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ango-lendas",
+    "name": "ANGO LENDAS",
+    "logo": "/assets/guilds/expulsas/ango-lendas.webp",
+    "groupCreated": "2025-12-28",
+    "recorded": "2026-01-06",
+    "members": 19,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "black-dragon",
+    "name": "BLACK DRAGON",
+    "logo": "/assets/guilds/expulsas/black-dragon.webp",
+    "groupCreated": "2025-11-06",
+    "recorded": "2026-01-06",
+    "members": 17,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ango-sat2-999",
+    "name": "ANGO SAT2 999",
+    "logo": "/assets/guilds/expulsas/ango-sat2-999.webp",
+    "groupCreated": "2025-11-02",
+    "recorded": "2026-01-04",
+    "members": 38,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ang-stayl-01",
+    "name": "ANG STAYL 01",
+    "logo": "/assets/guilds/expulsas/ang-stayl-01.webp",
+    "groupCreated": "2025-12-01",
+    "recorded": "2026-01-04",
+    "members": 17,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "wtf",
+    "name": "WTF",
+    "logo": "/assets/guilds/expulsas/wtf.webp",
+    "groupCreated": "2026-01-02",
+    "recorded": "2026-01-02",
+    "members": 9,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "hs-huntersx",
+    "name": "HS HUNTERSX",
+    "logo": "/assets/guilds/expulsas/hs-huntersx.webp",
+    "groupCreated": "2025-08-06",
+    "recorded": "2025-12-20",
+    "members": 23,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ao-atrevidos",
+    "name": "AO ATREVIDOS",
+    "logo": "/assets/guilds/expulsas/ao-atrevidos.webp",
+    "groupCreated": "2025-12-07",
+    "recorded": "2025-12-11",
+    "members": 11,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "100-ngola",
+    "name": "100% NGOLA",
+    "logo": "/assets/guilds/expulsas/100-ngola.webp",
+    "groupCreated": "2025-11-11",
+    "recorded": "2025-12-11",
+    "members": 14,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "kill-hunter",
+    "name": "KILL HUNTER",
+    "logo": "/assets/guilds/expulsas/kill-hunter.webp",
+    "groupCreated": "2025-11-24",
+    "recorded": "2025-12-05",
+    "members": 21,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "sw7-angolax",
+    "name": "SW7 ANGOLAX",
+    "logo": "/assets/guilds/expulsas/sw7-angolax.webp",
+    "groupCreated": "2025-10-07",
+    "recorded": "2025-12-05",
+    "members": 13,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "black-squad-l3",
+    "name": "BLACK SQUAD L3",
+    "logo": "/assets/guilds/expulsas/black-squad-l3.webp",
+    "groupCreated": "2025-11-19",
+    "recorded": "2025-12-05",
+    "members": 10,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "legiao-zero",
+    "name": "LEGIÃO ZERO",
+    "logo": "/assets/guilds/expulsas/legiao-zero.webp",
+    "groupCreated": "2025-09-17",
+    "recorded": "2025-12-05",
+    "members": 28,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "dark-rush",
+    "name": "DARK RUSH",
+    "logo": "/assets/guilds/expulsas/dark-rush.webp",
+    "groupCreated": "2025-10-23",
+    "recorded": "2025-12-05",
+    "members": 22,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "the-noobs",
+    "name": "THE NOOBS",
+    "logo": "/assets/guilds/expulsas/the-noobs.webp",
+    "groupCreated": "2025-07-31",
+    "recorded": "2025-12-05",
+    "members": 11,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "aura-x",
+    "name": "AURA X",
+    "logo": "/assets/guilds/expulsas/aura-x.webp",
+    "groupCreated": "2025-11-14",
+    "recorded": "2025-11-29",
+    "members": 9,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "ao-legit",
+    "name": "AO LEGIT",
+    "logo": "/assets/guilds/expulsas/ao-legit.webp",
+    "groupCreated": "2025-09-26",
+    "recorded": "2025-11-26",
+    "members": 18,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "os-lambas",
+    "name": "OS LAMBAS",
+    "logo": "/assets/guilds/expulsas/os-lambas.webp",
+    "groupCreated": "2025-11-06",
+    "recorded": "2025-11-06",
+    "members": 10,
+    "status": "expelled",
+    "reason": ""
+  },
+  {
+    "id": "cloud-angola",
+    "name": "CLOUD ANGOLA",
+    "logo": "/assets/guilds/expulsas/cloud-angola.webp",
+    "groupCreated": "2025-09-01",
+    "recorded": "2025-09-04",
+    "members": 5,
+    "status": "expelled",
+    "reason": ""
+  }
+]
