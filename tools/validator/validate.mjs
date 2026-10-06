@@ -97,7 +97,11 @@ checkList('records.json', records, ['id', 'title', 'category', 'value', 'unit'],
 });
 
 checkList('news.json', news, ['id', 'title', 'date', 'excerpt', 'body'], {
-  each: (n, w) => !Array.isArray(n.body) && err(w, '"body" deve ser uma lista de parágrafos'),
+  each: (n, w) => {
+    if (!Array.isArray(n.body)) err(w, '"body" deve ser uma lista de parágrafos');
+    checkAsset(w, n.thumb);
+    if (n.video) { checkAsset(w, n.video.src); checkAsset(w, n.video.poster); }
+  },
 });
 
 if (league) {

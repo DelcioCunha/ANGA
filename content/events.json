@@ -12,6 +12,18 @@
     "example": false
   },
   {
+    "id": "copa-flash",
+    "title": "Copa Flash — Angola Bet FF",
+    "date": "2026-10-05",
+    "time": "",
+    "image": "/assets/news/angola-bet-copa-flash.webp",
+    "category": "Torneio",
+    "description": "Torneio do parceiro Angola Bet FF: 50 equipas, inscrição grátis, prémios de 10.000, 5.000 e 3.000 Kz.",
+    "prize": "10.000 Kz ao 1.º lugar",
+    "status": "upcoming",
+    "example": false
+  },
+  {
     "id": "rodada-20",
     "title": "Rodada 20 — que vença o melhor",
     "date": "2026-09-30",
@@ -61,12 +73,24 @@
   },
   {
     "id": "liga-temporada-1",
-    "title": "Arranque da Liga Free Fire — Primeira Temporada",
-    "date": "2026-01-07",
+    "title": "Inauguração da Liga Aliança — Temporada 1",
+    "date": "2026-01-05",
     "time": "",
-    "image": "/assets/league/liga-temporada-1.webp",
+    "image": "/assets/news/primeira-jornada.webp",
     "category": "Liga",
-    "description": "Começa a primeira temporada da Liga da Aliança Nacional de Guildas Angolanas.",
+    "description": "Primeira jornada: NASA_E-S3 vs SIC Squad (21:00) e AO LEGIT vs OKM ESPORT1 (22:00).",
+    "prize": "",
+    "status": "past",
+    "example": false
+  },
+  {
+    "id": "arena-dos-campeoes",
+    "title": "Arena dos Campeões",
+    "date": "2026-09-08",
+    "time": "",
+    "image": "/assets/news/arena-grande-final-zap.webp",
+    "category": "Torneio",
+    "description": "Torneio parceiro com guildas da Aliança. Campeões: A-MORTE, NASA e, na Grande Final, ZAP NOVELAS.",
     "prize": "",
     "status": "past",
     "example": false

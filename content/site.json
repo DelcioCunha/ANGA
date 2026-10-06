@@ -4,7 +4,7 @@
   "tagline": "Um por todos, todos por Angola.",
   "game": "Free Fire",
   "country": "Angola",
-  "founded": "2026",
+  "founded": "2025",
   "founder": {
     "name": "Delcio Cunha",
     "role": "Dono e Fundador da Aliança",
@@ -97,8 +97,8 @@
   "about": {
     "history": [
       "A comunidade começou por se chamar Organização Nacional de Guildas Angolanas (ONGA). Ainda antes da mensagem de fundação, o nome mudou para o definitivo: Aliança Nacional de Guildas Angolanas — a ANGA.",
-      "No dia da inauguração, o fundador Delcio Cunha publicou nos Comunicados: “Hoje nasce a Aliança Nacional de Guildas Angolanas”. Os primeiros membros vieram da guilda ANGOMONARCAS e, logo a seguir, foram criados os primeiros grupos, como o Salão da Monarquia.",
-      "Em janeiro de 2026 arrancou a primeira temporada da Liga Free Fire da Aliança. Rodada após rodada, a Liga cresceu até reunir 24 guildas na tabela.",
+      "A 22 de março de 2025, o fundador Delcio Cunha publicou nos Comunicados: “Hoje nasce a Aliança Nacional de Guildas Angolanas”. Os primeiros membros vieram da guilda ANGOMONARCAS e, logo a seguir, foram criados os primeiros grupos, como o Salão da Monarquia.",
+      "Em setembro de 2025 a Aliança entrou em fase de organização, catalogando os ADMs de todas as guildas. Em outubro nasceu a ideia de uma liga e, a 5 de janeiro de 2026, arrancou a Temporada 1 da Liga Aliança. Rodada após rodada, a Liga cresceu até reunir 24 guildas na tabela.",
       "Em agosto de 2026 nasceu o Programa de Selos de Clientes do Mercado da Aliança. Hoje a comunidade conta com 1709 membros e 32 grupos — e este website é a sua primeira casa digital oficial."
     ],
     "inauguration": {
@@ -309,5 +309,6 @@
       }
     ],
     "cta": "Cumpres os requisitos? Fala com a administração para inscrever a tua guilda."
-  }
+  },
+  "foundedDate": "2025-03-22"
 }

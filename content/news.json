@@ -1,30 +1,52 @@
 [
   {
+    "id": "angola-bet-copa-flash",
+    "title": "Copa Flash: Angola Bet FF lança torneio com inscrição grátis",
+    "date": "2026-10-05",
+    "category": "Torneios",
+    "image": "/assets/news/angola-bet-copa-flash.webp",
+    "excerpt": "A Angola Bet FF, parceira da Aliança, apresentou a Copa Flash: 50 equipas, inscrição grátis e prémios de 10.000 Kz, 5.000 Kz e 3.000 Kz para o pódio.",
+    "body": [
+      "A Angola Bet FF, equipa parceira da Aliança Nacional de Guildas Angolanas, apresentou em vídeo a Copa Flash, o seu novo torneio de Free Fire.",
+      "A inscrição é grátis e há vagas para 50 equipas. O pódio é premiado em dinheiro: 10.000 Kz para o 1.º lugar, 5.000 Kz para o 2.º e 3.000 Kz para o 3.º.",
+      "O torneio segue um regulamento anti-trapaça com tolerância zero, e conta com o apoio dos patrocinadores ANB e Davi Vlogs.",
+      "Prepara a tua squad e representa a tua guilda. As inscrições e a data dos jogos são confirmadas no grupo oficial — fala com a administração para saber como participar."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/angola-bet-copa-flash.webp",
+    "video": {
+      "src": "/assets/news/angola-bet-copa-flash.mp4",
+      "poster": "/assets/news/angola-bet-copa-flash.webp"
+    }
+  },
+  {
+    "id": "angola-bet-boas-vindas",
+    "title": "Angola Bet Free Fire chega à Aliança",
+    "date": "2026-10-04",
+    "category": "Parcerias",
+    "image": "/assets/news/angola-bet-boas-vindas.webp",
+    "excerpt": "A ANGA anunciou oficialmente a chegada da equipa ANGOLA_BET_FREE_FIRE à Aliança, com um compromisso de mídia, visibilidade e crescimento do cenário.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas anunciou oficialmente a chegada da equipa ANGOLA_BET_FREE_FIRE à comunidade. O grupo foi adicionado pelo Pai da Nasa, Líder Supremo da comunidade.",
+      "“Selamos este acordo com a certeza de que a união faz a força. Da nossa parte, o compromisso com a mídia, a visibilidade e o crescimento do cenário é total.”",
+      "A mensagem de boas-vindas deixou claro o espírito da parceria: “A casa é vossa, liderança! Vamos trabalhar em equipa e elevar o nível do Free Fire nacional.”"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/angola-bet-boas-vindas.webp"
+  },
+  {
     "id": "website-oficial-lancado",
     "title": "A Aliança tem a sua primeira casa digital",
     "date": "2026-10-02",
     "category": "Aliança",
-    "image": "/assets/community/salao-de-membros.webp",
+    "image": "/assets/branding/anga-logo.webp",
     "excerpt": "O website oficial da ANGA está no ar: a Liga Aliança com a tabela atualizada, as 24 guildas, o Mercado com preços e selos, e a história da comunidade.",
     "body": [
       "A Aliança Nacional de Guildas Angolanas tem, a partir de hoje, o seu website oficial.",
       "Aqui encontras a Liga Aliança com a tabela e todas as rodadas, as 24 guildas participantes, o Mercado da Aliança com a tabela de preços e o Programa de Selos, a galeria da comunidade e o regulamento.",
       "A comunidade continua a viver no WhatsApp — o website é a montra oficial e o ponto de entrada para quem quer fazer parte."
-    ],
-    "featured": true,
-    "example": false
-  },
-  {
-    "id": "salao-de-guildas-atualizado",
-    "title": "Salão de Guildas: líderes e membros das 24 guildas",
-    "date": "2026-10-02",
-    "category": "Guildas",
-    "image": "/assets/community/salao-de-membros.webp",
-    "excerpt": "Cada guilda da Aliança tem agora o seu líder, a data de criação do grupo e o número de membros no website.",
-    "body": [
-      "O Salão de Guildas foi atualizado com os dados dos grupos de cada guilda a 2 de outubro de 2026.",
-      "A (HSR) HASHIRAS é a maior guilda, com 42 membros no grupo. A ANGOMONARCAS, criada a 3 de junho de 2024 por Delcio Cunha, é a guilda mais antiga da Aliança.",
-      "Na página das Guildas podes ordenar por posição na Liga, número de membros ou antiguidade."
     ],
     "featured": false,
     "example": false
@@ -41,6 +63,21 @@
       "A ANGOMONARCAS lidera com 45 pontos em 19 jogos (15 vitórias e 48 salas ganhas). Segue-se a NASA E-S com 33 pontos e a DARK PRIME com 24.",
       "A ANGO FIRE continua sem derrotas: 7 vitórias em 9 jogos, com 21 pontos.",
       "Ao todo, 24 guildas já pontuaram ou entraram em campo. A temporada vai até à Rodada 25."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "salao-de-guildas-atualizado",
+    "title": "Salão de Guildas: líderes e membros das 24 guildas",
+    "date": "2026-10-02",
+    "category": "Aliança",
+    "image": "/assets/community/salao-de-membros.webp",
+    "excerpt": "Cada guilda da Aliança tem agora o seu líder, a data de criação do grupo e o número de membros no website.",
+    "body": [
+      "O Salão de Guildas foi atualizado com os dados dos grupos de cada guilda a 2 de outubro de 2026.",
+      "A (HSR) HASHIRAS é a maior guilda, com 42 membros no grupo. A ANGOMONARCAS, criada a 3 de junho de 2024 por Delcio Cunha, é a guilda mais antiga da Aliança.",
+      "Na página das Guildas podes ordenar por posição na Liga, número de membros ou antiguidade."
     ],
     "featured": false,
     "example": false
@@ -89,6 +126,73 @@
     "example": false
   },
   {
+    "id": "arena-grande-final-zap-novelas",
+    "title": "ZAP NOVELAS vence a Grande Final da Arena dos Campeões",
+    "date": "2026-09-08",
+    "category": "Torneios",
+    "image": "/assets/news/arena-grande-final-zap.webp",
+    "excerpt": "Depois de muita luta e grandes confrontos, a ZAP NOVELAS levantou o troféu da Grande Final da Arena dos Campeões.",
+    "body": [
+      "Chegou ao fim a Arena dos Campeões. Depois de muita luta, grandes confrontos e muita emoção, o campeão da Grande Final é a ZAP NOVELAS.",
+      "A organização agradeceu a todas as guildas que participaram e deram o seu melhor durante o torneio.",
+      "Arena dos Campeões — juntos somos mais fortes!"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/arena-grande-final-zap.webp"
+  },
+  {
+    "id": "arena-resultado-nasa",
+    "title": "NASA campeã da Arena dos Campeões; SIC SQUAD é vice",
+    "date": "2026-09-02",
+    "category": "Torneios",
+    "image": "/assets/news/arena-resultado-nasa.webp",
+    "excerpt": "Resultado final da Arena dos Campeões: a NASA conquistou o título e a SIC SQUAD ficou com o vice-campeonato.",
+    "body": [
+      "O líder da Arena dos Campeões publicou nos Comunicados o resultado final da competição.",
+      "Campeã: NASA. Uma grande campanha até ao título.",
+      "2.º lugar: SIC SQUAD, com um grande desempenho que lhe valeu o vice-campeonato.",
+      "Parabéns às duas guildas!"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/arena-resultado-nasa.webp"
+  },
+  {
+    "id": "arena-campeao-a-morte",
+    "title": "A-MORTE é campeão da Arena dos Campeões",
+    "date": "2026-08-06",
+    "category": "Torneios",
+    "image": "/assets/news/arena-campeao-a-morte.webp",
+    "excerpt": "Na mensagem final da Arena dos Campeões, a organização celebrou o campeão A-MORTE e todas as equipas que aceitaram o desafio.",
+    "body": [
+      "“Hoje celebramos não apenas os campeões, mas todos os que aceitaram o desafio e fizeram parte desta grande competição.”",
+      "Parabéns ao campeão A-MORTE: uma conquista fruto de esforço, união, disciplina e determinação.",
+      "Às equipas que não chegaram ao topo, a mensagem foi clara: nem sempre a vitória sorri na primeira tentativa, mas cada batalha traz experiência para voltar ainda mais preparado. Quem hoje não levantou o troféu pode ser o próximo campeão.",
+      "A organização agradeceu a participação, o respeito e o espírito competitivo de todos."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/arena-campeao-a-morte.webp"
+  },
+  {
+    "id": "arena-dos-campeoes-parceria",
+    "title": "Aliança firma parceria com a Arena dos Campeões",
+    "date": "2026-08-06",
+    "category": "Parcerias",
+    "image": "/assets/news/arena-parceria.webp",
+    "excerpt": "A Aliança firmou uma parceria temporária com o torneio Arena dos Campeões, que contou com guildas da comunidade inscritas.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas firmou uma parceria temporária com o torneio Arena dos Campeões — “Aqui só os melhores vencem!”.",
+      "É um torneio à parte da comunidade, mas com várias guildas da Aliança inscritas: X1 entre guildas, respeito, competição e fair play.",
+      "O acompanhamento dos jogos foi feito no grupo dos Comunicados, com as atualizações publicadas pelo próprio líder e organizador da competição.",
+      "Foi também criado um grupo temporário com as figuras de autoridade de cada guilda da comunidade participante."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/arena-parceria.webp"
+  },
+  {
     "id": "programa-de-selos",
     "title": "Nasce o Programa de Selos de Clientes",
     "date": "2026-08-05",
@@ -99,6 +203,249 @@
       "O Mercado da Aliança lançou o Programa de Selos de Clientes.",
       "A primeira compra dá o selo Cliente Novo (nível 1), a segunda o selo Cliente Ativo (nível 2) e a terceira o selo Cliente Frequente (nível 3). Há mais níveis por desbloquear.",
       "Cada selo é entregue no grupo, junto com a mensagem de parabéns da Aliança."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "mercado-novo-grupo",
+    "title": "Novo grupo oficial: Mercado da Aliança",
+    "date": "2026-08-02",
+    "category": "Mercado",
+    "image": "/assets/news/mercado-novo-grupo.webp",
+    "excerpt": "A Aliança criou o grupo Mercado da Aliança, um espaço exclusivo onde compradores e vendedores falam diretamente, de forma organizada e segura.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas criou um novo espaço para tornar as negociações mais organizadas, seguras e confiáveis: o grupo oficial Mercado da Aliança.",
+      "A partir de agora, todos os produtos divulgados nos Comunicados têm um grupo exclusivo onde compradores e vendedores podem conversar diretamente, com o acompanhamento da administração.",
+      "Queres comprar algo dos Comunicados? Fala primeiro com a administração. Aliança unida, transações protegidas!"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/mercado-novo-grupo.webp"
+  },
+  {
+    "id": "promocoes-exclusivas",
+    "title": "Atenção Aliança: promoções só através da administração",
+    "date": "2026-07-30",
+    "category": "Mercado",
+    "image": "/assets/news/promocoes-exclusivas.webp",
+    "excerpt": "A partir de agora a Aliança ajuda a promover produtos na comunidade, mas todas as promoções e contactos passam exclusivamente pela administração.",
+    "body": [
+      "A Aliança passou a ajudar a promover produtos na comunidade. Mas há um facto de extrema importância: todas as promoções são feitas exclusivamente pela administração, nos Comunicados, e o contacto entre o cliente e a loja também.",
+      "Sempre que estiveres interessado num produto que vires na comunidade, entra em contacto primeiro com a administração, para que tudo seja tratado de forma segura.",
+      "Quem quiser vender os seus produtos ou promover alguma coisa deve também falar com a administração primeiro.",
+      "O objetivo é criar um ambiente confiável para todos os membros e, principalmente, garantir que ninguém seja burlado. Confiança + segurança + respeito = união."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/promocoes-exclusivas.webp"
+  },
+  {
+    "id": "rodada-16-adiada",
+    "title": "Rodada 16 adiada por quedas de rede",
+    "date": "2026-07-29",
+    "category": "Liga",
+    "image": "/assets/news/rodada-16-adiada.webp",
+    "excerpt": "Por causa do ataque cibernético à Unitel e das quedas de rede na Africell, a Rodada 16 da Liga Aliança foi oficialmente adiada.",
+    "body": [
+      "Tendo em conta as constantes quedas de internet das operadoras móveis — principalmente a Unitel, alvo de um ataque cibernético, e as altas quedas de rede da Africell — a Aliança decidiu adiar a Rodada 16 da Liga.",
+      "A decisão protege os jogadores de cada guilda participante: a competição é nossa, mas a segurança e a condição de todos também.",
+      "A Aliança agradeceu a compreensão de todos os líderes e jogadores. Juntos somos mais fortes do que qualquer obstáculo — a luta continua."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/rodada-16-adiada.webp"
+  },
+  {
+    "id": "liga-esta-de-volta",
+    "title": "A Liga Aliança está de volta — 3 rodadas ao mesmo tempo",
+    "date": "2026-06-21",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r12-14-inicio.webp",
+    "excerpt": "A Liga regressou ainda mais insana: as Rodadas 12, 13 e 14 são disputadas ao mesmo tempo.",
+    "body": [
+      "A Liga Aliança está de volta e, desta vez, ainda mais insana: as Rodadas 12, 13 e 14 vão ser realizadas ao mesmo tempo.",
+      "Preparem as vossas guildas e estejam prontos para a guerra que se aproxima. A batalha continua — a Aliança está mais forte."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "comunidade-no-google",
+    "title": "A Aliança já aparece no Google e no Gemini",
+    "date": "2026-04-04",
+    "category": "Aliança",
+    "image": "/assets/news/comunidade-no-google.webp",
+    "excerpt": "Pesquisa “Aliança de Guildas Angolanas” no Google e vê a nossa comunidade na Vista geral da IA. O vídeo mostra como.",
+    "body": [
+      "Há quem ainda não saiba: a nossa comunidade já é conhecida nos meios de pesquisa da Google e pela IA Gemini.",
+      "Basta abrir o Google e pesquisar “Aliança de Guildas Angolanas”. Na Vista geral da IA aparece a descrição da comunidade: o foco em competições de Free Fire, os requisitos de adesão das guildas e o contacto pelo WhatsApp.",
+      "Mais um motivo para espalhares a comunidade por todos os teus conhecidos que jogam Free Fire. Esta é a maior comunidade de guildas e jogadores de Free Fire em Angola!"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/comunidade-no-google.webp",
+    "video": {
+      "src": "/assets/news/comunidade-no-google.mp4",
+      "poster": "/assets/news/comunidade-no-google.webp"
+    },
+    "credit": "Vídeo: Pai da Nasa"
+  },
+  {
+    "id": "salao-supremo-lider-supremo",
+    "title": "Pai da Nasa é o novo Líder Supremo e nasce o Salão Supremo",
+    "date": "2026-03-03",
+    "category": "Aliança",
+    "image": "/assets/news/salao-supremo.webp",
+    "excerpt": "O líder da NASA foi eleito Líder Supremo da comunidade, e foi criado o Salão Supremo de Líderes, onde se tomam as maiores decisões.",
+    "body": [
+      "A Aliança elegeu um novo sub-líder que, juntamente com o fundador Delcio Cunha, vai definir o futuro da comunidade: o líder e Pai da Nasa é o novo Líder Supremo da comunidade.",
+      "Foi também criado um grupo dedicado aos assuntos mais importantes e exclusivos da comunidade, onde as maiores decisões são tomadas: o Salão Supremo de Líderes da Comunidade.",
+      "Vamos trabalhar para crescermos juntos esta comunidade."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/salao-supremo.webp"
+  },
+  {
+    "id": "okm-esport-fora-da-liga",
+    "title": "OKM ESPORT1 afastada da Liga e dos eventos",
+    "date": "2026-02-25",
+    "category": "Aliança",
+    "image": "/assets/news/okm-fora-da-liga.webp",
+    "excerpt": "Após uma investigação da administração, a guilda OKM ESPORT1 ficou fora da Liga Aliança e dos eventos da comunidade.",
+    "body": [
+      "A guilda OKM ESPORT1 foi investigada pela administração e por informantes de confiança devido a comportamento tóxico e inadequado na comunidade.",
+      "A guilda foi acusada de uso, partilha e ajuda na compra e venda de painel/xit, de uso de meios de emulação e de integrar um grupo de compra e venda de painel/xit. As acusações recaíram sobre os líderes da guilda, sem evidências contra os membros — mas o comportamento dos líderes é a imagem da guilda.",
+      "Decisão: a OKM ESPORT1 ficou fora da competição da Liga Aliança e dos eventos da comunidade. Na altura, a administração optou por não expulsar a guilda da comunidade, deixando essa responsabilidade aos seus líderes."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/okm-fora-da-liga.webp"
+  },
+  {
+    "id": "liga-na-copa-facil",
+    "title": "Liga Aliança passa para a app Copa Fácil",
+    "date": "2026-01-07",
+    "category": "Liga",
+    "image": "/assets/news/copa-facil.webp",
+    "excerpt": "A Liga mudou de aplicação: na Copa Fácil todos podem acompanhar os resultados e comentar os jogos.",
+    "body": [
+      "A Liga Aliança mudou de aplicação para melhorar ainda mais a visualização e o acompanhamento da competição.",
+      "A nova app chama-se Copa Fácil. Lá, todos podem acompanhar digitalmente a Liga, ver os resultados e comentar os jogos diretamente na aplicação.",
+      "Na Copa Fácil, a página da Temporada 1 indica o período de 5 de janeiro a 31 de julho de 2026, com organização de Delcio Cunha."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/copa-facil.webp"
+  },
+  {
+    "id": "primeira-jornada-liga",
+    "title": "Inauguração da Liga Aliança: a primeira jornada",
+    "date": "2026-01-05",
+    "category": "Liga",
+    "image": "/assets/news/primeira-jornada.webp",
+    "excerpt": "A Liga Aliança arrancou com dois confrontos: NASA_E-S3 vs SIC Squad às 21:00 e AO LEGIT vs OKM ESPORT1 às 22:00.",
+    "body": [
+      "A Liga Aliança Nacional de Guildas Angolanas foi inaugurada com a sua primeira jornada.",
+      "Confronto 1, às 21:00: NASA_E-S3 vs SIC SQUAD.",
+      "Confronto 2, às 22:00: AO LEGIT vs OKM ESPORT1.",
+      "Começava assim a Temporada 1 da maior competição da comunidade."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/primeira-jornada.webp",
+    "credit": "Cartaz: Líder da NASA"
+  },
+  {
+    "id": "novo-ano-novo-visual",
+    "title": "Novo ano, novo visual",
+    "date": "2026-01-02",
+    "category": "Aliança",
+    "image": "/assets/news/novo-visual-2026.webp",
+    "excerpt": "A Aliança estreou 2026 com uma nova identidade: o novo brasão da ANGA e as imagens do Salão dos ADMS e do Salão de Membros.",
+    "body": [
+      "“Atenção Aliança, hoje temos grandes e importantes atualizações.” Assim começou o primeiro anúncio de 2026.",
+      "A primeira novidade: novo ano, novo visual. A comunidade estreou o novo brasão da ANGA e as novas imagens do Salão dos ADMS e do Salão de Membros."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/novo-visual-2026.webp"
+  },
+  {
+    "id": "feliz-ano-novo-2026",
+    "title": "Feliz 2026, Aliança!",
+    "date": "2025-12-31",
+    "category": "Aliança",
+    "image": "/assets/news/ano-novo-2026.webp",
+    "excerpt": "A Aliança desejou a toda a comunidade um 2026 de batalhas vencidas, união entre as guildas, crescimento, respeito e glória nas arenas.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas de Free Fire desejou a toda a comunidade um feliz Ano Novo de 2026.",
+      "Que 2026 seja um ano de muitas batalhas vencidas, união entre as guildas, crescimento, respeito e glória nas arenas.",
+      "Que a força, a disciplina e a honra guiem cada passo da nossa Aliança. Feliz 2026 a todas as guildas e membros!"
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/ano-novo-2026.webp"
+  },
+  {
+    "id": "feliz-natal-2025",
+    "title": "Feliz Natal, comunidade!",
+    "date": "2025-12-25",
+    "category": "Aliança",
+    "image": "/assets/news/natal-2025.webp",
+    "excerpt": "A Aliança desejou a todas as guildas, líderes, ADMs e membros um Natal de paz, união e alegria junto das famílias.",
+    "body": [
+      "A Aliança Nacional de Guildas Angolanas de Free Fire desejou a todas as guildas, líderes, ADMs e membros um Natal cheio de paz, união e alegria junto das vossas famílias.",
+      "Que esta data especial renove as forças, fortaleça a amizade entre as guildas e reforce o espírito de união que nos torna uma grande comunidade.",
+      "Que 2026 seja um ano de vitórias, conquistas, crescimento e grandes batalhas vencidas, dentro e fora do campo de jogo. Seguimos juntos, mais fortes do que nunca."
+    ],
+    "featured": false,
+    "example": false,
+    "thumb": "/assets/news/mini/natal-2025.webp"
+  },
+  {
+    "id": "proposta-liga-alianca",
+    "title": "Nasce a ideia de uma Liga entre as guildas",
+    "date": "2025-10-15",
+    "category": "Liga",
+    "image": "/assets/league/liga-temporada-1.webp",
+    "excerpt": "O fundador anunciou aos ADMs que estava a organizar uma liga entre as guildas da Aliança — eram precisas pelo menos 6 guildas.",
+    "body": [
+      "“Olá ADMs, sejam bem-vindos. Estou a trabalhar em organizar uma espécie de liga entre as guildas da Aliança.” Foi assim que começou a história da Liga Aliança.",
+      "Para a competição ser mais divertida, eram precisas pelo menos 6 guildas. A ideia: uma tabela de pontuação entre todas as guildas, com dias e horários definidos para cada confronto, em salas 4v4 com espaço para espectadores.",
+      "Na proposta original, cada confronto teria 3 salas em mapas alternados — Bermuda, Nova Terra e Kalahari — e cada vitória valeria 1 ponto na tabela.",
+      "O formato evoluiu até às regras atuais da Liga, mas foi aqui que tudo começou."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "alianca-em-organizacao",
+    "title": "A Aliança entra em fase de organização",
+    "date": "2025-09-02",
+    "category": "Aliança",
+    "image": "/assets/community/salao-dos-adms.webp",
+    "excerpt": "O fundador anunciou que ia catalogar os ADMs de todas as guildas da comunidade; quem não se pronunciasse ficaria fora da Aliança.",
+    "body": [
+      "A Aliança entrou numa nova fase de organização.",
+      "A partir desse dia, o fundador começou a contactar todas as guildas existentes na comunidade para catalogar devidamente os ADMs de cada uma.",
+      "As guildas cujos ADMs não se pronunciassem ficariam automaticamente fora da Aliança. Foi o primeiro passo para a estrutura organizada que a comunidade tem hoje."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "nasce-a-alianca",
+    "title": "Hoje nasce a Aliança Nacional de Guildas Angolanas",
+    "date": "2025-03-22",
+    "category": "Aliança",
+    "image": "/assets/community/inauguracao.webp",
+    "excerpt": "A 22 de março de 2025 foi criada a comunidade que viria a tornar-se a maior aliança de guildas de Free Fire de Angola.",
+    "body": [
+      "A 22 de março de 2025, Delcio Cunha criou a comunidade no WhatsApp e publicou nos Comunicados: “Hoje nasce a Aliança Nacional de Guildas Angolanas”.",
+      "Os primeiros membros vieram da guilda ANGOMONARCAS. A comunidade começou com o nome Organização Nacional de Guildas Angolanas (ONGA) e passou depois a chamar-se Aliança Nacional de Guildas Angolanas — a ANGA.",
+      "Hoje a Aliança reúne 1709 membros, 32 grupos e 24 guildas na Liga Aliança."
     ],
     "featured": false,
     "example": false

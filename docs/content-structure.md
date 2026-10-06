@@ -25,6 +25,16 @@ Atualiza também `standingsUpdated` (data) e `currentRound`.
    `{ "id": "r21-inicio", "round": "21", "phase": "inicio", "date": "2026-10-10", "image": "/assets/league/rodadas/r21-inicio.webp", "thumb": "/assets/league/rodadas/mini/r21-inicio.webp", "title": "Rodada 21 começou", "text": "" }`
    `phase` é `inicio` ou `fim`. A rodada aparece na Liga, no “Último anúncio” da página inicial e na Galeria.
 
+### Publicar uma notícia
+1. Recorta a imagem do comunicado (sem números de telefone) e guarda-a em `website/public/assets/news/<id>.webp`.
+   Opcional: uma miniatura de ~420px em `assets/news/mini/<id>.webp` (campo `thumb`).
+2. Acrescenta a `content/news.json`:
+   `{ "id": "titulo-curto", "title": "...", "date": "2026-10-10", "category": "Liga", "image": "/assets/news/titulo-curto.webp", "thumb": "/assets/news/mini/titulo-curto.webp", "excerpt": "Resumo de uma frase.", "body": ["Parágrafo 1", "Parágrafo 2"], "featured": false, "example": false }`
+   Categorias usadas: Aliança, Liga, Torneios, Parcerias, Mercado. Vídeo opcional:
+   `"video": { "src": "/assets/news/video.mp4", "poster": "/assets/news/titulo-curto.webp" }` e `"credit": "Vídeo: …"`.
+3. Não precisas de ordenar: o site mostra sempre a notícia mais recente primeiro (a mais recente fica em destaque),
+   agrupada por mês.
+
 ### Entregar um selo a um cliente
 `content/market.json` → `badges.holders`. Adiciona a imagem do selo em `assets/market/selos/`
 e acrescenta-a à lista `badges` do cliente (do nível mais baixo para o mais alto); atualiza `level`.
