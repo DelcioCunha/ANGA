@@ -2,29 +2,29 @@
   "name": "Liga Aliança",
   "fullName": "Liga Free Fire da Aliança Nacional de Guildas Angolanas",
   "tagline": "A maior competição da comunidade",
-  "description": "A Liga Aliança junta as guildas angolanas de Free Fire em confrontos 4x4 no modo Contra Squad. Cada jogo vale 3 pontos para o vencedor, rodada após rodada, até ao fim da temporada.",
+  "description": "A Liga Aliança junta as guildas angolanas de Free Fire em confrontos 4v4 no mapa Bermuda. Cada sala tem 13 jogos e a partida é ganha pela guilda que vencer 3 salas, somando 3 pontos na tabela.",
   "banner": "/assets/league/liga-temporada-1.webp",
   "currentSeason": "temporada-1",
   "format": [
     {
-      "label": "Modo",
-      "value": "Contra Squad (CS) normal"
+      "label": "Equipas",
+      "value": "4v4 — só membros da guilda"
     },
     {
-      "label": "Equipas",
-      "value": "4x4 — só membros da guilda"
+      "label": "Mapa",
+      "value": "Bermuda (apenas)"
     },
     {
       "label": "Cada sala",
-      "value": "7 rodadas"
+      "value": "13 jogos — vence quem ganhar 7"
     },
     {
-      "label": "Vitória no jogo",
-      "value": "Quem vencer 3 salas"
+      "label": "Vitória na partida",
+      "value": "A primeira guilda a vencer 3 salas"
     },
     {
       "label": "Pontos",
-      "value": "3 por jogo ganho"
+      "value": "3 por partida ganha"
     },
     {
       "label": "Temporada",
@@ -34,23 +34,16 @@
   "scoring": {
     "win": 3,
     "loss": 0,
-    "note": "O vencedor das 3 salas ganha 3 pontos, somados na tabela."
+    "note": "A guilda que vence 3 salas ganha a partida e soma 3 pontos na tabela."
   },
   "rules": [
-    "Sala CS normal de 7 rodadas.",
-    "4x4: apenas membros da guilda podem jogar.",
-    "Uso de qualquer habilidade permitido.",
-    "Loja aleatória de armas.",
-    "Vence o jogo quem vencer 3 salas.",
-    "Proibido jogadores usarem emulador nos jogos.",
-    "O vencedor das 3 salas ganha 3 pontos, que são somados na tabela."
+    "A sala deve ser 4v4, apenas no mapa Bermuda.",
+    "Todas as habilidades e pets são permitidos.",
+    "A loja principal da sala deve ser a loja aleatória.",
+    "Cada sala tem 13 jogos: vence a sala quem ganhar 7 jogos.",
+    "A partida só termina quando uma das duas guildas atingir 3 salas vencidas. A guilda vencedora envia à administração os prints das 3 salas que venceu e também das salas que perdeu."
   ],
   "documents": [
-    {
-      "id": "regras-app",
-      "title": "Regras na app da Liga",
-      "image": "/assets/league/liga-regras-app.webp"
-    },
     {
       "id": "tabela-a",
       "title": "Tabela oficial 02/10 — posições 1 a 13",
@@ -608,5 +601,12 @@
         }
       ]
     }
+  ],
+  "rulesIntro": "Os líderes devem estar cientes de que as regras das salas são claras.",
+  "forfeitRules": [
+    "Jogar de emulador — extremamente proibido.",
+    "Jogar sem ser membro da guilda.",
+    "Atrasar mais de 10 minutos, depois da hora combinada, para entrar na sala.",
+    "Não responder ou não aparecer para jogar no horário combinado."
   ]
 }

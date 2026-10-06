@@ -7,6 +7,7 @@ import GuildModal from '../../components/sections/GuildModal';
 import Button from '../../components/common/Button';
 import Icon from '../../components/common/Icon';
 import { ImageGrid } from '../../components/common/Lightbox';
+import GuildRequirements from '../../components/sections/GuildRequirements';
 import { getLeague, getCurrentSeason, getStandings } from '../../services/contentService';
 import { asset, formatDate } from '../../utils/format';
 
@@ -79,19 +80,42 @@ export default function League() {
           <div className="card" id="regras-liga" data-reveal>
             <span className="eyebrow">Regras oficiais das salas</span>
             <h2 className="h2" style={{ margin: '10px 0 6px' }}>Como se joga</h2>
-            <ul className="checklist">
-              {league.rules.map((r) => <li key={r}><Icon name="check" /> {r}</li>)}
-            </ul>
+            {league.rulesIntro && <p className="muted">{league.rulesIntro}</p>}
+            <ol className="rule-list">
+              {league.rules.map((r, i) => <li key={r}><span>{i + 1}</span>{r}</li>)}
+            </ol>
             <div className="points-callout">
               <strong>{league.scoring.win}</strong>
-              <span>pontos por jogo ganho<br /><span className="muted small">{league.scoring.note}</span></span>
+              <span>pontos por partida ganha<br /><span className="muted small">{league.scoring.note}</span></span>
             </div>
           </div>
-          <div className="stack" data-reveal style={{ '--d': '100ms' }}>
-            <span className="eyebrow">Documentos oficiais</span>
-            <p className="muted">Capturas da app da Liga, com as regras e a tabela de {formatDate(season.standingsUpdated)}.</p>
-            <ImageGrid items={league.documents} variant="phone" />
+          <div className="stack" style={{ gap: 18 }}>
+            {league.forfeitRules?.length > 0 && (
+              <div className="card forfeit" data-reveal style={{ '--d': '80ms' }}>
+                <div className="row" style={{ gap: 12 }}>
+                  <div className="icon-tile forfeit__icon"><Icon name="alert" /></div>
+                  <div>
+                    <span className="eyebrow forfeit__eyebrow">Atenção, líderes</span>
+                    <h2 className="h3">Regras que podem causar a perda do jogo</h2>
+                  </div>
+                </div>
+                <ol className="rule-list rule-list--red">
+                  {league.forfeitRules.map((r, i) => <li key={r}><span>{i + 1}</span>{r}</li>)}
+                </ol>
+              </div>
+            )}
+            <div className="stack" data-reveal style={{ '--d': '140ms' }}>
+              <span className="eyebrow">Documentos oficiais</span>
+              <p className="muted">Tabela oficial da Liga de {formatDate(season.standingsUpdated)}.</p>
+              <ImageGrid items={league.documents} variant="phone" />
+            </div>
           </div>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <GuildRequirements />
         </div>
       </section>
       <GuildModal guild={guild} onClose={() => setGuild(null)} />

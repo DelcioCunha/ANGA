@@ -284,3 +284,40 @@
 .expelled-teaser__logos img { width: 38px; height: 38px; border-radius: 50%; border: 2px solid var(--bg); margin-left: -12px; filter: grayscale(1) brightness(0.7); }
 .expelled-teaser__logos img:first-child { margin-left: 0; }
 @media (max-width: 480px) { .expelled-teaser__logos { display: none; } }
+
+/* ---------- Navbar: o botão do menu nunca sai do ecrã ---------- */
+.navbar__inner { min-width: 0; }
+.brand { min-width: 0; flex: 0 1 auto; }
+.brand__text { min-width: 0; overflow: hidden; }
+.brand__text strong, .brand__text small { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.navbar__actions { flex: none; margin-left: auto; }
+.navbar__toggle { flex: none; }
+/* Telemóveis: só a marca + menu (o WhatsApp flutuante já está sempre disponível) */
+@media (max-width: 767px) { .navbar__cta { display: none !important; } }
+@media (max-width: 520px) { .brand__text small { display: none; } }
+/* Links na barra só quando há espaço real para todos */
+@media (min-width: 1100px) and (max-width: 1279px) { .navbar__links { display: none; } }
+@media (min-width: 1280px) and (max-width: 1399px) { .brand__text small { display: none; } .navbar__link { padding-inline: 9px; } }
+@media (min-width: 1280px) { .navbar__links { display: flex; } .navbar__actions { margin-left: 0; } }
+
+/* ---------- Regras da Liga ---------- */
+.rule-list { list-style: none; margin: 16px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.rule-list li { display: flex; gap: 12px; align-items: flex-start; color: var(--text-2); line-height: 1.5; }
+.rule-list li > span { flex: none; width: 28px; height: 28px; display: grid; place-items: center; border-radius: 8px; background: var(--grad-gold); color: var(--on-accent); font-family: var(--font-display); font-weight: 700; font-size: 0.9rem; margin-top: -2px; }
+.rule-list--red li > span { background: linear-gradient(120deg, #fb7185, #be123c); color: #fff; }
+.forfeit { border-color: rgba(225, 29, 72, 0.45); background: linear-gradient(160deg, rgba(225, 29, 72, 0.1), transparent 60%); }
+.forfeit__icon { color: #fda4af; background: rgba(225, 29, 72, 0.14); border-color: rgba(225, 29, 72, 0.4); }
+.forfeit__eyebrow { color: #fda4af; }
+.forfeit__eyebrow::before { background: linear-gradient(90deg, #fb7185, #be123c); }
+
+/* ---------- Requisitos de adesão ---------- */
+.requirements { display: grid; gap: 24px; padding: clamp(20px, 4vw, 40px); border-radius: var(--radius-lg); border: 1px solid rgba(245, 179, 1, 0.3); background: radial-gradient(70% 120% at 0% 0%, rgba(245, 179, 1, 0.1), transparent 60%), var(--bg-2); }
+.requirements__head { display: flex; flex-direction: column; gap: 12px; max-width: 760px; }
+.requirements__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); }
+.requirement { display: flex; gap: 14px; align-items: flex-start; padding: 16px; border-radius: 14px; background: rgba(0, 0, 0, 0.28); border: 1px solid var(--border); min-width: 0; }
+.requirement__n { flex: none; width: 34px; height: 34px; display: grid; place-items: center; border-radius: 10px; background: var(--grad-gold); color: var(--on-accent); font-family: var(--font-display); font-weight: 700; }
+.requirement__title { display: flex; align-items: center; gap: 8px; font-size: 1.02rem; margin-bottom: 4px; }
+.requirement__title svg { width: 17px; height: 17px; color: var(--accent-2); flex: none; }
+.requirements__cta { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; padding-top: 18px; border-top: 1px solid var(--border); }
+.requirements--compact { padding: clamp(18px, 3vw, 28px); }
+.requirements__list { grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); }

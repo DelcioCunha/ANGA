@@ -45,11 +45,6 @@
         "image": "/assets/market/programa-de-selos.webp"
       },
       {
-        "id": "precos",
-        "title": "Tabela de preços (28/09/2026)",
-        "image": "/assets/market/tabela-de-precos.webp"
-      },
-      {
         "id": "selo-fernando-3",
         "title": "Selo nível 3 — Fernando",
         "image": "/assets/market/selos/selo-fernando-n3.webp"

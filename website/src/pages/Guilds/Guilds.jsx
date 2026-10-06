@@ -3,6 +3,7 @@ import { useReveal } from '../../hooks/useReveal';
 import PageHeader from '../../components/common/PageHeader';
 import GuildCard, { JoinGuildCard } from '../../components/cards/GuildCard';
 import GuildModal from '../../components/sections/GuildModal';
+import GuildRequirements from '../../components/sections/GuildRequirements';
 import Button from '../../components/common/Button';
 import Icon from '../../components/common/Icon';
 import { asset } from '../../utils/format';
@@ -59,6 +60,11 @@ export default function Guilds() {
           ) : (
             <EmptyState icon="shield" title="Nenhuma guilda encontrada" text={`Não há guildas com “${q}”.`} />
           )}
+        </div>
+      </section>
+      <section className="section section--alt">
+        <div className="container">
+          <GuildRequirements />
         </div>
       </section>
       <section className="section section--tight">

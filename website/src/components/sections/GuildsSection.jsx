@@ -2,7 +2,7 @@ import { useState } from 'react';
 import SectionHeader from '../common/SectionHeader';
 import GuildCrest from '../common/GuildCrest';
 import GuildModal from './GuildModal';
-import Button from '../common/Button';
+import GuildRequirements from './GuildRequirements';
 import { getGuildsByStanding } from '../../services/contentService';
 
 /** Mural com todas as guildas da Aliança. */
@@ -23,8 +23,8 @@ export default function GuildsSection() {
             </li>
           ))}
         </ul>
-        <div className="row" style={{ justifyContent: 'center', marginTop: 28 }}>
-          <Button whatsapp="guild" variant="ghost" icon="shield">Inscrever a minha guilda</Button>
+        <div style={{ marginTop: 'clamp(32px, 5vw, 56px)' }}>
+          <GuildRequirements compact />
         </div>
       </div>
       <GuildModal guild={active} onClose={() => setActive(null)} />

@@ -282,5 +282,32 @@
       "Este registo é permanente. Serve de memória e de aviso: na ANGA, quem não honra a Aliança não fica."
     ],
     "note": "Expulsões decididas pela administração da Aliança, segundo o regulamento."
+  },
+  "guildMembership": {
+    "title": "Requisitos para a tua guilda entrar na Aliança",
+    "intro": "A Aliança aceita guildas organizadas e ativas. Para fazer parte da comunidade, a guilda tem de cumprir todos os requisitos.",
+    "requirements": [
+      {
+        "icon": "users",
+        "title": "Pelo menos 20 membros",
+        "text": "A guilda precisa de ter no mínimo 20 membros."
+      },
+      {
+        "icon": "whatsapp",
+        "title": "Um grupo oficial no WhatsApp",
+        "text": "A guilda tem de ter um grupo no WhatsApp, que é adicionado à comunidade. Grupos secundários não são aceites."
+      },
+      {
+        "icon": "star",
+        "title": "Nível 5 ou acima",
+        "text": "A guilda tem de estar no nível 5 ou superior no Free Fire."
+      },
+      {
+        "icon": "shield",
+        "title": "Ativa e responsável",
+        "text": "Membros e líderes ativos e responsáveis, que cumpram todos os deveres e participem na comunidade."
+      }
+    ],
+    "cta": "Cumpres os requisitos? Fala com a administração para inscrever a tua guilda."
   }
 }

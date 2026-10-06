@@ -53,7 +53,6 @@ export default function Market() {
         <div className="container market-prices">
           <div className="stack" data-reveal>
             <SectionHeader eyebrow="Tabela de preços" title="Escolhe e pede" text="Toca em “Pedir” e a mensagem chega pronta ao WhatsApp da Aliança. A administração adiciona-te ao grupo com o vendedor." />
-            <ImageGrid items={[{ id: 'tabela', title: 'Tabela de preços oficial', image: m.priceTable }]} variant="single" />
           </div>
           <PriceTable />
         </div>

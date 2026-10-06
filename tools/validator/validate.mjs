@@ -123,7 +123,6 @@ if (league) {
 
 if (market) {
   checkAsset('market.json', market.logo);
-  checkAsset('market.json', market.priceTable);
   checkList('market.json:priceGroups', market.priceGroups, ['id', 'title', 'items'], {
     each: (g, w) => g.items.forEach((it) => {
       if (!it.name) err(w, 'produto sem nome');

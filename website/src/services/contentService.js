@@ -75,7 +75,17 @@ export const getNews = () => [...news].sort(byDateDesc);
 export const getNewsItem = (id) => news.find((n) => n.id === id) || null;
 
 /* ---------- Regras ---------- */
-export const getRules = () => rules;
+/** Regulamento geral + secções oficiais vindas da Liga e dos requisitos de adesão (fonte única). */
+export const getRules = () => {
+  const extra = [];
+  if (site.guildMembership) {
+    extra.push({ id: 'adesao', title: 'Requisitos de adesão das guildas', rules: site.guildMembership.requirements.map((r) => `${r.title}: ${r.text}`) });
+  }
+  if (league.rules?.length) extra.push({ id: 'liga-salas', title: 'Liga Aliança — regras das salas', rules: league.rules });
+  if (league.forfeitRules?.length) extra.push({ id: 'liga-perda', title: 'Liga Aliança — causas de perda do jogo', rules: league.forfeitRules });
+  const ids = new Set(rules.sections.map((x) => x.id));
+  return { ...rules, sections: [...extra.filter((x) => !ids.has(x.id)), ...rules.sections] };
+};
 
 /* ---------- Galeria ---------- */
 /** Álbuns do gallery.json + álbum da Liga gerado a partir das rodadas. */

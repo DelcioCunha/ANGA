@@ -27,7 +27,6 @@
   ],
   "pricesUpdated": "2026-09-28",
   "currency": "Kz",
-  "priceTable": "/assets/market/tabela-de-precos.webp",
   "priceGroups": [
     {
       "id": "diamantes",
@@ -127,27 +126,6 @@
         {
           "name": "Passe Booyah",
           "price": 2160
-        }
-      ]
-    },
-    {
-      "id": "trilha",
-      "title": "Trilha da Evolução",
-      "subtitle": "Evolui e desbloqueia recompensas exclusivas",
-      "color": "#ef4444",
-      "icon": "flame",
-      "items": [
-        {
-          "name": "Trilha 3 dias",
-          "price": 900
-        },
-        {
-          "name": "Trilha 7 dias",
-          "price": 1440
-        },
-        {
-          "name": "Trilha 30 dias",
-          "price": 4200
         }
       ]
     }

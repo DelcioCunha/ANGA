@@ -51,7 +51,7 @@ export function JoinGuildCard({ children }) {
     <div className="guild-card guild-card--join card" data-reveal>
       <div className="icon-tile"><Icon name="shield" /></div>
       <h3 className="guild-card__name">A tua guilda aqui</h3>
-      <p className="muted">Lideras uma guilda angolana de Free Fire? Filia-te à Aliança e entra na próxima temporada da Liga Aliança.</p>
+      <p className="muted">Lideras uma guilda com 20+ membros e nível 5 ou acima? Filia-te à Aliança e entra na Liga Aliança.</p>
       {children}
     </div>
   );
