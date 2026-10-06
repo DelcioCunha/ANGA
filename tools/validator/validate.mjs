@@ -153,6 +153,7 @@ if (site) {
   site.about?.halls?.forEach((h) => checkAsset('site.json:halls', h.image));
   checkAsset('site.json:inauguration', site.about?.inauguration?.image);
   checkAsset('site.json:community', site.community?.profileImage);
+  checkAsset('site.json:founder', site.founder?.photo);
 }
 if (rules) checkList('rules.json:sections', rules.sections, ['id', 'title', 'rules']);
 

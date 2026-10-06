@@ -7,9 +7,32 @@
   "founded": "2025",
   "founder": {
     "name": "Delcio Cunha",
-    "role": "Dono e Fundador da Aliança",
+    "role": "Fundador e Administrador da Aliança",
     "whatsapp": "244947976103",
-    "whatsappDisplay": "+244 947 976 103"
+    "whatsappDisplay": "+244 947 976 103",
+    "photo": "/assets/founder/delcio-cunha.webp",
+    "location": "Luanda, Angola",
+    "profession": "Técnico de Infraestrutura de TI & Desenvolvedor Web",
+    "portfolio": "https://delciocunha.github.io/Meu-Portfolio/",
+    "bio": [
+      "Delcio Cunha é o criador da Aliança Nacional de Guildas Angolanas. Antes da Aliança, criou a guilda ANGOMONARCAS, a 3 de junho de 2024 — a guilda fundadora, de onde vieram os primeiros membros da comunidade.",
+      "A 22 de março de 2025 fundou a comunidade com um objetivo claro: dar às guildas angolanas de Free Fire um lugar organizado, competitivo e respeitado. Desde então organiza a Liga Aliança, gere o Mercado da Aliança e lidera a administração da comunidade, hoje com mais de 1700 membros.",
+      "Fora do jogo, é Técnico de Infraestrutura de TI e Desenvolvedor Web, em Luanda. Trabalha com virtualização, redes e monitorização de sistemas, e desenvolve aplicações web com Python, Django, React e outras tecnologias."
+    ],
+    "highlights": [
+      {
+        "label": "Fundou a ANGOMONARCAS",
+        "value": "03/06/2024"
+      },
+      {
+        "label": "Fundou a Aliança",
+        "value": "22/03/2025"
+      },
+      {
+        "label": "Organizador da Liga Aliança",
+        "value": "Temporada 1"
+      }
+    ]
   },
   "whatsapp": {
     "number": "244947976103",

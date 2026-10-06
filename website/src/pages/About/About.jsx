@@ -39,6 +39,28 @@ export default function About() {
         </div>
       </section>
 
+      <section className="section creator-section">
+        <div className="container creator">
+          <div className="creator__photo" data-reveal>
+            <img src={asset(founder.photo)} alt={`Foto de ${founder.name}`} width="308" height="308" loading="lazy" />
+            <span className="creator__badge"><Icon name="crown" /> Fundador</span>
+          </div>
+          <div className="stack creator__copy" data-reveal style={{ gap: 16, '--d': '100ms' }}>
+            <span className="eyebrow">O criador</span>
+            <h2 className="h2">{founder.name}</h2>
+            <p className="creator__role">{founder.role} · {founder.profession}</p>
+            {founder.bio.map((p, i) => <p key={i} className="muted creator__text">{p}</p>)}
+            <dl className="creator__facts">
+              {founder.highlights.map((h) => <div key={h.label}><dt>{h.label}</dt><dd>{h.value}</dd></div>)}
+            </dl>
+            <div className="row">
+              <a className="btn btn--gold" href={founder.portfolio} target="_blank" rel="noopener noreferrer"><Icon name="external" /><span>Ver o meu portfólio</span></a>
+              <a className="btn btn--whatsapp" href={`https://wa.me/${founder.whatsapp}`} target="_blank" rel="noopener noreferrer"><Icon name="whatsapp" /><span>Falar com o fundador</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="section section--alt">
         <div className="container inauguration">
           <div className="stack" data-reveal>

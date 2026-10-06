@@ -347,3 +347,18 @@
 .article-nav__link small { display: inline-flex; align-items: center; gap: 6px; color: var(--accent-2); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600; }
 .article-nav__link small svg { width: 14px; height: 14px; }
 .article-nav__link--next { text-align: right; align-items: flex-end; }
+
+/* ---------- O criador ---------- */
+.creator { display: grid; gap: clamp(24px, 4vw, 48px); align-items: center; }
+@media (min-width: 860px) { .creator { grid-template-columns: minmax(0, 340px) minmax(0, 1fr); } }
+.creator__photo { position: relative; justify-self: center; width: min(100%, 320px); }
+.creator__photo img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: var(--radius-lg); border: 2px solid rgba(245, 179, 1, 0.55); box-shadow: 0 30px 60px -24px rgba(245, 179, 1, 0.45); }
+.creator__badge { position: absolute; left: 16px; bottom: -14px; display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 99px; background: var(--grad-gold); color: var(--on-accent); font-family: var(--font-display); font-weight: 700; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; }
+.creator__badge svg { width: 15px; height: 15px; }
+.creator__role { color: var(--accent-2); font-weight: 600; }
+.creator__text { max-width: 68ch; }
+.creator__facts { display: flex; flex-wrap: wrap; gap: 10px; margin: 4px 0; }
+.creator__facts div { padding: 10px 14px; border-radius: 12px; background: var(--surface); border: 1px solid var(--border); }
+.creator__facts dt { font-size: 0.68rem; color: var(--muted); letter-spacing: 0.14em; text-transform: uppercase; }
+.creator__facts dd { margin: 2px 0 0; font-family: var(--font-display); font-weight: 600; }
+.creator__photo { margin-bottom: 18px; }
