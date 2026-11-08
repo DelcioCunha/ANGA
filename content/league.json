@@ -64,7 +64,7 @@
       "status": "live",
       "statusLabel": "Em curso",
       "phase": "1ª Fase",
-      "currentRound": 20,
+      "currentRound": 25,
       "totalRounds": 25,
       "followers": 63,
       "standingsUpdated": "2026-10-02",
@@ -598,8 +598,50 @@
           "thumb": "/assets/league/rodadas/mini/r20-inicio.webp",
           "title": "Rodada 20 — que vença o melhor",
           "text": "A rodada atual da Temporada 1."
+        },
+        {
+          "id": "r21-23-inicio",
+          "round": "21–23",
+          "phase": "inicio",
+          "date": "2026-10-10",
+          "image": "/assets/league/rodadas/r21-23-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r21-23-inicio.webp",
+          "title": "Rodadas 21, 22 e 23 — três rodadas, um só propósito",
+          "text": "Mais desafios, mais emoções, mais conquistas: três rodadas em sequência."
+        },
+        {
+          "id": "r21-23-fim",
+          "round": "21–23",
+          "phase": "fim",
+          "date": "2026-10-24",
+          "image": "/assets/league/rodadas/r21-23-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r21-23-fim.webp",
+          "title": "Fim das Rodadas 21, 22 e 23 — a reta final chegou",
+          "text": "Agora é tudo ou nada: a Rodada 25 vai decidir quem leva o título."
+        },
+        {
+          "id": "r24-inicio",
+          "round": "24",
+          "phase": "inicio",
+          "date": "2026-10-26",
+          "image": "/assets/league/rodadas/r24-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r24-inicio.webp",
+          "title": "Rodada 24 — a batalha continua",
+          "text": "Grandes guildas, grandes conquistas. É hora de mostrar do que a tua guilda é capaz."
+        },
+        {
+          "id": "r24-fim",
+          "round": "24",
+          "phase": "fim",
+          "date": "2026-11-07",
+          "image": "/assets/league/rodadas/r24-fim.webp",
+          "thumb": "/assets/league/rodadas/mini/r24-fim.webp",
+          "title": "Fim da Rodada 24 — que vença o melhor",
+          "text": "24 rodadas de muito esforço. Até à próxima rodada!"
         }
-      ]
+      ],
+      "roundStatus": "next",
+      "roundStatusLabel": "Próxima: Rodada 25 — a decisão"
     }
   ],
   "rulesIntro": "Os líderes devem estar cientes de que as regras das salas são claras.",

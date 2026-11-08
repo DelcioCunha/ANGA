@@ -1,14 +1,38 @@
 [
   {
-    "id": "rodada-21-25",
-    "title": "Rodadas 21 a 25 — reta final da Temporada 1",
+    "id": "rodada-25",
+    "title": "Rodada 25 — a grande decisão",
     "date": "",
     "time": "",
     "image": "",
     "category": "Liga",
-    "description": "As últimas cinco rodadas da Temporada 1 da Liga Aliança. No fim, o campeão é coroado no Salão de Troféus.",
+    "description": "A última rodada da Temporada 1 da Liga Aliança. A Rodada 25 decide quem leva o título; o campeão entra no Salão de Troféus.",
     "prize": "",
     "status": "upcoming",
+    "example": false
+  },
+  {
+    "id": "rodada-24",
+    "title": "Rodada 24",
+    "date": "2026-10-26",
+    "time": "",
+    "image": "/assets/league/rodadas/r24-inicio.webp",
+    "category": "Liga",
+    "description": "A batalha continua: a penúltima rodada da Temporada 1.",
+    "prize": "",
+    "status": "past",
+    "example": false
+  },
+  {
+    "id": "rodadas-21-23",
+    "title": "Rodadas 21, 22 e 23",
+    "date": "2026-10-10",
+    "time": "",
+    "image": "/assets/league/rodadas/r21-23-inicio.webp",
+    "category": "Liga",
+    "description": "Três rodadas em sequência — um só propósito.",
+    "prize": "",
+    "status": "past",
     "example": false
   },
   {
@@ -25,14 +49,14 @@
   },
   {
     "id": "rodada-20",
-    "title": "Rodada 20 — que vença o melhor",
+    "title": "Rodada 20",
     "date": "2026-09-30",
     "time": "",
     "image": "/assets/league/rodadas/r20-inicio.webp",
     "category": "Liga",
     "description": "A rodada atual da Liga Aliança. 20 rodadas de muito esforço, mais união entre os membros e mais evolução em cada jogo.",
     "prize": "",
-    "status": "live",
+    "status": "past",
     "example": false
   },
   {

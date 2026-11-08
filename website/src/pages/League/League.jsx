@@ -16,7 +16,8 @@ export default function League() {
   const league = getLeague();
   const season = getCurrentSeason();
   const [guild, setGuild] = useState(null);
-  const progress = Math.round((season.currentRound / season.totalRounds) * 100);
+  const done = season.roundStatus === 'next' ? season.currentRound - 1 : season.currentRound;
+  const progress = Math.round((done / season.totalRounds) * 100);
   const leader = getStandings(season)[0];
 
   return (
@@ -31,7 +32,7 @@ export default function League() {
           <div className="season-bar" aria-label={`Rodada ${season.currentRound} de ${season.totalRounds}`}>
             <div className="season-bar__top">
               <span><strong>{season.name}</strong> · {season.phase}</span>
-              <span className="badge badge--red badge--live"><span className="dot" />Rodada {season.currentRound} de {season.totalRounds}</span>
+              {season.roundStatus === 'next' ? <span className="badge badge--violet"><span className="dot" />{season.roundStatusLabel || `Próxima: Rodada ${season.currentRound}`}</span> : <span className="badge badge--red badge--live"><span className="dot" />Rodada {season.currentRound} de {season.totalRounds}</span>}
             </div>
             <div className="season-bar__track"><i style={{ width: `${progress}%` }} /></div>
             <div className="season-bar__meta muted small">

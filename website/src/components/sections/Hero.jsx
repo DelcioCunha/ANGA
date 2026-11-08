@@ -28,7 +28,7 @@ export default function Hero() {
         <div className="hero__visual">
           <div className="hero__rings" aria-hidden="true"><span /><span /><span /></div>
           <Emblem size={300} className="hero__emblem" />
-          <div className="hero__chip hero__chip--a" aria-hidden="true"><strong>Liga Aliança</strong><small>Rodada {season.currentRound} de {season.totalRounds}</small></div>
+          <div className="hero__chip hero__chip--a" aria-hidden="true"><strong>Liga Aliança</strong><small>{season.roundStatus === 'next' ? `Próxima: Rodada ${season.currentRound}` : `Rodada ${season.currentRound} de ${season.totalRounds}`}</small></div>
           <div className="hero__chip hero__chip--b" aria-hidden="true"><strong>{slogans?.[0]}</strong><small>ANGA · Free Fire</small></div>
         </div>
       </div>

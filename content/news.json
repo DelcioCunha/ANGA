@@ -1,5 +1,68 @@
 [
   {
+    "id": "fim-rodada-24",
+    "title": "Fim da Rodada 24: que vença o melhor",
+    "date": "2026-11-07",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r24-fim.webp",
+    "thumb": "/assets/league/rodadas/mini/r24-fim.webp",
+    "excerpt": "Terminou a Rodada 24 da Liga Aliança. Só falta a Rodada 25 para se conhecer o campeão da Temporada 1.",
+    "body": [
+      "A Rodada 24 da Liga Aliança chegou ao fim.",
+      "24 rodadas de muito esforço, mais união entre as guildas, mais aprendizado em cada jogo e mais evolução para a próxima.",
+      "Agora só falta a Rodada 25 — a rodada que decide o campeão da Temporada 1. Juntos somos mais fortes!"
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "rodada-24-comecou",
+    "title": "Rodada 24: a batalha continua",
+    "date": "2026-10-26",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r24-inicio.webp",
+    "thumb": "/assets/league/rodadas/mini/r24-inicio.webp",
+    "excerpt": "Começou a Rodada 24 da Liga Aliança — a penúltima da Temporada 1.",
+    "body": [
+      "A Rodada 24 da Liga Aliança já está em andamento.",
+      "Grandes guildas, grandes conquistas: é hora de mostrar do que a tua guilda é capaz. A batalha continua!"
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "fim-rodadas-21-23",
+    "title": "Fim das Rodadas 21, 22 e 23: a reta final chegou",
+    "date": "2026-10-24",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r21-23-fim.webp",
+    "thumb": "/assets/league/rodadas/mini/r21-23-fim.webp",
+    "excerpt": "Três rodadas, um só destino. Agora é tudo ou nada: a Rodada 25 vai decidir quem leva o título.",
+    "body": [
+      "Terminaram as Rodadas 21, 22 e 23 da Liga Aliança — três rodadas, um só destino.",
+      "A reta final da Liga chegou. Agora é tudo ou nada: a Rodada 25 vai decidir quem leva o título.",
+      "Até à Rodada 25, vamos juntos! A Liga não para."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
+    "id": "rodadas-21-23",
+    "title": "Rodadas 21, 22 e 23: três rodadas, um só propósito",
+    "date": "2026-10-10",
+    "category": "Liga",
+    "image": "/assets/league/rodadas/r21-23-inicio.webp",
+    "thumb": "/assets/league/rodadas/mini/r21-23-inicio.webp",
+    "excerpt": "A Liga Aliança jogou três rodadas em sequência: mais desafios, mais emoções, mais conquistas.",
+    "body": [
+      "A Liga Aliança avançou com três rodadas em sequência: 21, 22 e 23.",
+      "Três rodadas, um só propósito: mais desafios, mais emoções e mais conquistas — com mais união entre as guildas e mais evolução em cada jogo.",
+      "A força da Aliança é a nossa maior vitória!"
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
     "id": "angola-bet-copa-flash",
     "title": "Copa Flash: Angola Bet FF lança torneio com inscrição grátis",
     "date": "2026-10-05",

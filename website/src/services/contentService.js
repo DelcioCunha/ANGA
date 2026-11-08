@@ -110,6 +110,6 @@ export const getStats = () => {
     { id: 'members', value: c.members, label: 'Membros na comunidade' },
     { id: 'groups', value: c.groups, label: 'Grupos no WhatsApp' },
     { id: 'guilds', value: getStandings(s).length, label: 'Guildas na Liga' },
-    { id: 'round', value: s.currentRound, label: `Rodada atual de ${s.totalRounds}` },
+    { id: 'round', value: s.currentRound, label: s.roundStatus === 'next' ? `Próxima rodada (de ${s.totalRounds})` : `Rodada atual de ${s.totalRounds}` },
   ];
 };

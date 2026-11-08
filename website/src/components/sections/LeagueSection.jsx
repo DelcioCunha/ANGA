@@ -21,7 +21,7 @@ export default function LeagueSection() {
           <div className="card card--glass league-teaser__panel" data-reveal>
             <div className="row" style={{ justifyContent: 'space-between' }}>
               <h3 className="h3">{season.name} · Top 5</h3>
-              <span className="badge badge--red badge--live"><span className="dot" />Rodada {season.currentRound} a decorrer</span>
+              {season.roundStatus === 'next' ? <span className="badge badge--violet"><span className="dot" />{season.roundStatusLabel || `Próxima: Rodada ${season.currentRound}`}</span> : <span className="badge badge--red badge--live"><span className="dot" />Rodada {season.currentRound} a decorrer</span>}
             </div>
             <Standings season={season} limit={5} onSelect={setGuild} />
             <Button to="/liga" variant="ghost" iconRight="arrow" size="sm">Ver as {season.standings.length} equipas</Button>
