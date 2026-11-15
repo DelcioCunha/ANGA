@@ -84,6 +84,7 @@ const P = {
     </>
   ),
   bolt: <path d="M13 2 4 14h7l-1 8 9-12h-7Z" />,
+  play: <path d="M7 4.5v15l12-7.5-12-7.5Z" />,
   cart: (
     <>
       <circle cx="9" cy="20" r="1.5" />

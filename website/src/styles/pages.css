@@ -230,3 +230,51 @@
 .partner-list a:hover { border-color: rgba(245, 179, 1, 0.4); }
 .partner-list img { width: 64px; height: 64px; border-radius: 10px; object-fit: cover; flex: none; }
 .partner-list div div, .partner-list a > div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+
+/* ---------- Destaque da página inicial (spotlight) ---------- */
+.spotlight { position: relative; overflow: hidden; padding: clamp(48px, 7vw, 96px) 0; border-block: 1px solid rgba(245, 179, 1, 0.25); background: #07050c; isolation: isolate; }
+.spotlight__bg { position: absolute; inset: -40px; background-size: cover; background-position: center 35%; filter: blur(38px) saturate(1.4) brightness(0.4); transform: scale(1.1); z-index: -1; }
+.spotlight::after { content: ''; position: absolute; inset: 0; z-index: -1; background: radial-gradient(ellipse 60% 70% at 25% 50%, rgba(245, 179, 1, 0.16), transparent 70%), linear-gradient(180deg, rgba(7, 5, 12, 0.5), rgba(7, 5, 12, 0.85)); }
+.spotlight__grid { display: grid; gap: clamp(28px, 4vw, 56px); align-items: center; }
+@media (min-width: 900px) { .spotlight__grid { grid-template-columns: minmax(280px, 0.85fr) 1.15fr; } }
+.spotlight__media { position: relative; max-width: 460px; width: 100%; margin-inline: auto; border-radius: 22px; overflow: hidden; border: 2px solid rgba(245, 179, 1, 0.55); box-shadow: 0 30px 80px -20px rgba(0, 0, 0, 0.9), 0 0 60px -10px rgba(245, 179, 1, 0.45); }
+.spotlight__media img { display: block; width: 100%; height: auto; }
+.spotlight__play { position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); display: inline-flex; align-items: center; gap: 12px; padding: 10px 22px 10px 10px; border-radius: 999px; border: 1px solid rgba(255, 255, 255, 0.25); background: rgba(8, 6, 14, 0.75); backdrop-filter: blur(10px); color: #fff; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.9rem; cursor: pointer; white-space: nowrap; transition: transform 0.3s var(--ease), background 0.3s; }
+.spotlight__play:hover { transform: translateX(-50%) scale(1.05); background: rgba(8, 6, 14, 0.9); }
+.spotlight__play span { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--grad-brand); color: var(--on-accent); box-shadow: 0 0 0 6px rgba(245, 179, 1, 0.2); animation: pulse 1.8s infinite; }
+.spotlight__play svg { width: 20px; height: 20px; fill: currentColor; }
+.spotlight__grid > * { min-width: 0; }
+.spotlight__body { width: 100%; display: flex; flex-direction: column; align-items: flex-start; gap: 16px; }
+.spotlight__eyebrow { margin: 4px 0 0; }
+.spotlight__title { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; line-height: 0.95; font-size: clamp(2.4rem, 6vw, 4.6rem); margin: 0; }
+.spotlight__title span { display: block; background: var(--grad-gold); -webkit-background-clip: text; background-clip: text; color: transparent; filter: drop-shadow(0 0 24px rgba(245, 179, 1, 0.45)); }
+.spotlight__text { color: var(--text-2, #d9d2c3); max-width: 56ch; margin: 0; font-size: 1.05rem; }
+.spotlight__facts { list-style: none; margin: 4px 0 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; width: 100%; }
+
+.spotlight__facts li { display: flex; gap: 10px; align-items: center; padding: 12px 14px; border-radius: 14px; background: rgba(0, 0, 0, 0.35); border: 1px solid rgba(245, 179, 1, 0.3); }
+.spotlight__facts svg { width: 26px; height: 26px; flex: none; color: var(--accent); }
+.spotlight__facts small { display: block; font-size: 0.68rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+.spotlight__facts strong { display: block; font-size: 0.9rem; line-height: 1.25; }
+.spotlight__race { width: 100%; padding: 14px 16px; border-radius: 14px; background: rgba(255, 255, 255, 0.04); border: 1px solid var(--border); }
+.spotlight__race > small { font-size: 0.7rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+.spotlight__video { display: block; width: 100%; max-height: 80vh; border-radius: 14px; background: #000; margin-top: 8px; }
+.modal__panel:has(.spotlight__video) { max-width: 520px; }
+
+/* ---------- Calendário de confrontos ---------- */
+.fixtures { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; width: 100%; }
+.fixture { position: relative; display: grid; grid-template-columns: 64px 1fr auto 1fr; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 14px; background: rgba(0, 0, 0, 0.35); border: 1px solid var(--border); }
+.fixture__date { display: flex; flex-direction: column; line-height: 1.1; }
+.fixture__date b { font-family: var(--font-display); color: var(--accent); font-size: 1.05rem; }
+.fixture__date small { font-size: 0.7rem; color: var(--muted); white-space: nowrap; }
+.fixture__team { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.fixture__team--away { flex-direction: row-reverse; text-align: right; }
+.fixture__team img { width: 34px; height: 34px; border-radius: 9px; object-fit: cover; flex: none; }
+.fixture__team strong { font-family: var(--font-display); text-transform: uppercase; font-size: 0.86rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fixture__vs { font-family: var(--font-display); font-weight: 700; font-size: 0.78rem; color: var(--accent); }
+.fixture--past { opacity: 0.55; }
+.fixture--next, .fixture--today { border-color: rgba(245, 179, 1, 0.7); background: linear-gradient(90deg, rgba(245, 179, 1, 0.16), rgba(0, 0, 0, 0.35)); box-shadow: 0 0 30px -10px rgba(245, 179, 1, 0.6); }
+.fixture__flag { position: absolute; top: -9px; right: 12px; padding: 2px 10px; border-radius: 99px; font-size: 0.62rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; background: var(--grad-brand); color: var(--on-accent); }
+.fixture--today .fixture__flag { background: linear-gradient(120deg, #ff3b5c, #e11d48); color: #fff; }
+.fixtures--compact { max-height: 340px; overflow-y: auto; padding: 10px 4px 2px 0; scrollbar-width: thin; }
+@media (max-width: 480px) { .fixture { grid-template-columns: 54px 1fr auto 1fr; gap: 6px; padding: 10px 8px; } .fixture__team img { width: 28px; height: 28px; } .fixture__team strong { font-size: 0.74rem; } }
+.league-fixtures { max-width: 820px; }

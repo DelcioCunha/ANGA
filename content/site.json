@@ -337,5 +337,41 @@
     ],
     "cta": "Cumpres os requisitos? Fala com a administração para inscrever a tua guilda."
   },
-  "foundedDate": "2025-03-22"
+  "foundedDate": "2025-03-22",
+  "spotlight": {
+    "enabled": true,
+    "badge": "Rodada 25 em andamento",
+    "eyebrow": "Liga Aliança · Temporada 1",
+    "title": "Última e rodada final",
+    "highlight": "Rodada 25",
+    "text": "A última rodada da Temporada 1: 20 guildas, 10 confrontos, de 17 a 26 de novembro. Cada jogo conta — acompanha o calendário e apoia a tua guilda.",
+    "image": "/assets/news/rodada-25-inicio.webp",
+    "imageAlt": "Cartaz oficial da Rodada 25 da Liga Aliança",
+    "video": "/assets/news/anuncio-rodada-25.mp4",
+    "facts": [
+      {
+        "icon": "target",
+        "label": "Modo",
+        "value": "4x4 Normal · CS Ranqueado"
+      },
+      {
+        "icon": "map",
+        "label": "Mapa",
+        "value": "Bermuda"
+      },
+      {
+        "icon": "trophy",
+        "label": "Pontos",
+        "value": "3 pontos por mapa"
+      },
+      {
+        "icon": "shield",
+        "label": "Regras",
+        "value": "Sem emuladores · hacks é ban"
+      }
+    ],
+    "link": "/liga",
+    "linkLabel": "Acompanhar a Liga",
+    "news": "rodada-25-comecou"
+  }
 }

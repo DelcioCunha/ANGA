@@ -1,8 +1,29 @@
 [
   {
+    "id": "rodada-25-comecou",
+    "title": "Rodada 25: os 10 confrontos da última rodada",
+    "date": "2026-11-15",
+    "category": "Liga",
+    "image": "/assets/news/rodada-25-inicio.webp",
+    "thumb": "/assets/league/rodadas/mini/r25-inicio.webp",
+    "excerpt": "Foi lançada a Rodada 25, a última da Temporada 1: 20 guildas, 10 confrontos, de 17 a 26 de novembro.",
+    "body": [
+      "Foi lançada a Rodada 25 — a última rodada da Temporada 1 da Liga Aliança. São 20 guildas e 10 confrontos, um por dia, de 17 a 26 de novembro.",
+      "Calendário: 17/11 BANDADIT x DARKSHADOW · 18/11 DARK PRIME x KINGS ESPORT · 19/11 FX FURIA x NX NEXUS · 20/11 TM7 x IMBONDEIROS · 21/11 CAPITÃO 244 x AOA 07 · 22/11 ANGOMONARCAS x OVERLORD AO · 23/11 HASHIRAS x PARADOXO · 24/11 NASA E-S x TRAPSTAR · 25/11 2.2 x IMBONDEIROS (22:00) · 26/11 NAKAMA FF x ANGO FIRE. Todos os outros jogos às 21:00.",
+      "Modo 4x4 Normal (CS Ranqueado), no mapa Bermuda, com 3 pontos por mapa. Sem emuladores: hacks é ban.",
+      "Juntos somos mais fortes!"
+    ],
+    "featured": true,
+    "example": false,
+    "video": {
+      "src": "/assets/news/anuncio-rodada-25.mp4",
+      "poster": "/assets/news/rodada-25-inicio.webp"
+    }
+  },
+  {
     "id": "falta-1-dia-rodada-25",
     "title": "Falta 1 dia para a Rodada 25 — a rodada final",
-    "date": "2026-11-15",
+    "date": "2026-11-14",
     "category": "Liga",
     "image": "/assets/news/falta-1-dia-rodada-25.webp",
     "thumb": "/assets/news/mini/falta-1-dia-rodada-25.webp",
@@ -13,7 +34,7 @@
       "ANGOMONARCAS lidera com 60 pontos, seguida da NASA E-S com 45 e da ANGO FIRE com 33. Tudo se decide agora.",
       "Que vença o melhor. Juntos somos mais fortes!"
     ],
-    "featured": true,
+    "featured": false,
     "example": false
   },
   {

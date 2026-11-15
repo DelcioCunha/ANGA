@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useReveal } from '../../hooks/useReveal';
 import SectionHeader from '../../components/common/SectionHeader';
 import Standings from '../../components/sections/Standings';
+import Fixtures from '../../components/sections/Fixtures';
 import RoundsTimeline from '../../components/sections/RoundsTimeline';
 import GuildModal from '../../components/sections/GuildModal';
 import Button from '../../components/common/Button';
@@ -59,6 +60,17 @@ export default function League() {
           </div>
         </div>
       </section>
+
+      {(season.fixtures || []).some((f) => String(f.round) === String(season.currentRound)) && (
+        <section className="section" id="jogos">
+          <div className="container">
+            <SectionHeader eyebrow={`Rodada ${season.currentRound}`} title="Calendário de confrontos" text="Um jogo por dia. O próximo jogo aparece em destaque." />
+            <div className="league-fixtures" data-reveal>
+              <Fixtures fixtures={season.fixtures.filter((f) => String(f.round) === String(season.currentRound))} />
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="section section--alt" id="tabela">
         <div className="container">

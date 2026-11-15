@@ -1,14 +1,14 @@
 [
   {
     "id": "rodada-25",
-    "title": "Rodada 25 — a grande decisão",
-    "date": "2026-11-16",
-    "time": "",
-    "image": "/assets/league/rodadas/r25-contagem-1.webp",
+    "title": "Rodada 25 — última e rodada final",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "image": "/assets/league/rodadas/r25-inicio.webp",
     "category": "Liga",
-    "description": "A última rodada da Temporada 1 da Liga Aliança arranca a 16/11/2026. A Rodada 25 decide quem leva o título; o campeão entra no Salão de Troféus.",
+    "description": "A última rodada da Temporada 1 da Liga Aliança: 10 confrontos de 17 a 26 de novembro, às 21:00 (25/11 às 22:00). Modo 4x4 Normal (CS Ranqueado), mapa Bermuda, 3 pontos por mapa. Sem emuladores — hacks é ban.",
     "prize": "",
-    "status": "upcoming",
+    "status": "live",
     "example": false
   },
   {

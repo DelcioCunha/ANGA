@@ -1,5 +1,6 @@
 import { useReveal } from '../../hooks/useReveal';
 import Hero from '../../components/sections/Hero';
+import RoundSpotlight from '../../components/sections/RoundSpotlight';
 import Marquee from '../../components/effects/Marquee';
 import Intro from '../../components/sections/Intro';
 import LeagueSection from '../../components/sections/LeagueSection';
@@ -19,6 +20,7 @@ export default function Home() {
     <div ref={ref}>
       <Hero />
       <Marquee items={marquee} />
+      <RoundSpotlight />
       <Intro />
       <LeagueSection />
       <MarketSection />

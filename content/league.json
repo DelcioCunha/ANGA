@@ -608,7 +608,7 @@
           "round": "25",
           "phase": "contagem",
           "days": 3,
-          "date": "2026-11-13",
+          "date": "2026-11-12",
           "image": "/assets/league/rodadas/r25-contagem-3.webp",
           "thumb": "/assets/league/rodadas/mini/r25-contagem-3.webp",
           "title": "Faltam 3 dias para a Rodada 25",
@@ -619,7 +619,7 @@
           "round": "25",
           "phase": "contagem",
           "days": 2,
-          "date": "2026-11-14",
+          "date": "2026-11-13",
           "image": "/assets/league/rodadas/r25-contagem-2.webp",
           "thumb": "/assets/league/rodadas/mini/r25-contagem-2.webp",
           "title": "Faltam 2 dias para a Rodada 25",
@@ -630,15 +630,96 @@
           "round": "25",
           "phase": "contagem",
           "days": 1,
-          "date": "2026-11-15",
+          "date": "2026-11-14",
           "image": "/assets/league/rodadas/r25-contagem-1.webp",
           "thumb": "/assets/league/rodadas/mini/r25-contagem-1.webp",
           "title": "Falta 1 dia para a Rodada 25",
           "text": "Amanhã arranca a rodada final que decide o campeão da Temporada 1."
+        },
+        {
+          "id": "r25-inicio",
+          "round": "25",
+          "phase": "inicio",
+          "date": "2026-11-15",
+          "image": "/assets/league/rodadas/r25-inicio.webp",
+          "thumb": "/assets/league/rodadas/mini/r25-inicio.webp",
+          "title": "Início da Rodada 25 — última e rodada final",
+          "text": "Grande, épica, lendária: 10 confrontos entre 17 e 26 de novembro, sempre às 21:00 (25/11 às 22:00)."
         }
       ],
-      "roundStatus": "next",
-      "roundStatusLabel": "Falta 1 dia: Rodada 25 — a decisão"
+      "roundStatus": "live",
+      "fixtures": [
+        {
+          "round": "25",
+          "date": "2026-11-17",
+          "time": "21:00",
+          "home": "bandadit",
+          "away": "darkshadow"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-18",
+          "time": "21:00",
+          "home": "dark-prime",
+          "away": "kings-esport"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-19",
+          "time": "21:00",
+          "home": "fx-furia",
+          "away": "nx-nexus"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-20",
+          "time": "21:00",
+          "home": "tm7",
+          "away": "imbondeiros"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-21",
+          "time": "21:00",
+          "home": "capitao-244",
+          "away": "aoa-07"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-22",
+          "time": "21:00",
+          "home": "angomonarcas",
+          "away": "overlord-ao"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-23",
+          "time": "21:00",
+          "home": "hashiras",
+          "away": "paradoxo"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-24",
+          "time": "21:00",
+          "home": "nasa-e-s",
+          "away": "trapstar"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-25",
+          "time": "22:00",
+          "home": "dois-ponto-dois",
+          "away": "imbondeiros"
+        },
+        {
+          "round": "25",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "home": "nakama-ff",
+          "away": "ango-fire"
+        }
+      ]
     }
   ],
   "rulesIntro": "Os líderes devem estar cientes de que as regras das salas são claras.",
