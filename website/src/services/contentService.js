@@ -17,6 +17,7 @@ import news from '@content/news.json';
 import rules from '@content/rules.json';
 import gallery from '@content/gallery.json';
 import expelled from '@content/expelled-guilds.json';
+import partnerships from '@content/partnerships.json';
 
 const byDateDesc = (a, b) => (b.date || '').localeCompare(a.date || '');
 const byDateAsc = (a, b) => (a.date || '9999').localeCompare(b.date || '9999');
@@ -24,6 +25,7 @@ const byDateAsc = (a, b) => (a.date || '9999').localeCompare(b.date || '9999');
 /* ---------- Site / comunidade ---------- */
 export const getSite = () => site;
 export const getCommunity = () => site.community;
+export const getPartnerships = () => partnerships;
 
 /* ---------- Guildas ---------- */
 export const getGuilds = () => guilds.filter((g) => g.status !== 'hidden');

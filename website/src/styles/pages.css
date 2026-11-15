@@ -211,3 +211,22 @@
 
 .field__error { color: #fda4af; font-size: 0.82rem; }
 .field input[aria-invalid='true'] { border-color: var(--red); }
+
+/* ---------- Parcerias & Publicidade ---------- */
+.partner-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: clamp(14px, 2vw, 22px); }
+.partner-card { display: flex; flex-direction: column; gap: 12px; }
+.partner-card__list { list-style: none; margin: 4px 0 0; padding: 0; display: flex; flex-direction: column; gap: 8px; font-size: 0.95rem; }
+.partner-card__list li { display: flex; gap: 10px; align-items: flex-start; }
+.partner-card__list svg { width: 18px; height: 18px; flex: none; margin-top: 2px; color: var(--accent); }
+.partner-card__foot { margin-top: auto; padding-top: 14px; border-top: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.partner-card__foot .link-arrow { background: none; border: 0; padding: 0; cursor: pointer; font: inherit; }
+.partner-deal { display: grid; gap: 22px; }
+@media (min-width: 980px) { .partner-deal { grid-template-columns: 1fr 1.15fr; align-items: start; } }
+.partner-rules { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.partner-rules li { display: flex; gap: 10px; align-items: flex-start; }
+.partner-rules svg { width: 18px; height: 18px; flex: none; margin-top: 2px; color: var(--gold-2); }
+.partner-list { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.partner-list a, .partner-list > li > div { display: flex; gap: 14px; align-items: center; padding: 10px; border-radius: 12px; background: rgba(0, 0, 0, 0.25); border: 1px solid var(--border); transition: border-color 0.3s; }
+.partner-list a:hover { border-color: rgba(245, 179, 1, 0.4); }
+.partner-list img { width: 64px; height: 64px; border-radius: 10px; object-fit: cover; flex: none; }
+.partner-list div div, .partner-list a > div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }

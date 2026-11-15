@@ -9,6 +9,7 @@ const TOPICS = [
   { id: 'guild', label: 'Filiar a minha guilda' },
   { id: 'league', label: 'Liga FF' },
   { id: 'market', label: 'Mercado' },
+  { id: 'partner', label: 'Parcerias e publicidade' },
   { id: 'other', label: 'Outro assunto' },
 ];
 

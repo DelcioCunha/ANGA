@@ -273,6 +273,10 @@
       "label": "Regras"
     },
     {
+      "to": "/parcerias",
+      "label": "Parcerias"
+    },
+    {
       "to": "/contactos",
       "label": "Contactos"
     }

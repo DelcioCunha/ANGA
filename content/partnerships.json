@@ -1,0 +1,33 @@
+{
+  "eyebrow": "Parcerias & Publicidade",
+  "title": "Leva a tua marca à Aliança",
+  "lead": "Tens um produto, uma loja, um torneio ou uma marca e queres chegar à comunidade de Free Fire de Angola? Esta é a porta de entrada. Fala diretamente com o fundador da Aliança e combinamos juntos o acordo certo para ti.",
+  "contactName": "Delcio Cunha",
+  "contactRole": "Fundador e responsável pelas parcerias",
+  "message": "Olá Delcio! Vim pela página de Parcerias & Publicidade do website da Aliança e quero conversar sobre um acordo.",
+  "audienceNote": "Números reais da comunidade — o teu anúncio chega a quem joga, compete e compra todos os dias.",
+  "formats": [
+    { "id": "grupos", "icon": "megaphone", "title": "Divulgação nos grupos", "text": "A tua publicação partilhada nos grupos oficiais da Aliança e no grupo dos Comunicados, com o selo de parceiro.", "items": ["Publicação com imagem ou vídeo", "Grupos oficiais e Comunicados", "Frequência combinada contigo"] },
+    { "id": "liga", "icon": "trophy", "title": "Patrocínio da Liga Aliança", "text": "Associa a tua marca à maior competição da comunidade: cartazes das rodadas, tabela e anúncio do campeão.", "items": ["Marca nos cartazes das rodadas", "Menção na tabela e nas notícias", "Presença na grande final"] },
+    { "id": "torneio", "icon": "target", "title": "Torneios e prémios", "text": "Organiza ou patrocina um torneio com as guildas da Aliança — tu dás o prémio, nós damos a competição e o público.", "items": ["Torneio com o nome da tua marca", "Inscrição das guildas da Aliança", "Cobertura antes, durante e depois"] },
+    { "id": "website", "icon": "star", "title": "Destaque no website", "text": "Espaço no site oficial: notícia de apresentação, logótipo na lista de parceiros e link direto para o teu contacto.", "items": ["Notícia de parceria", "Logótipo na página de parceiros", "Link para o teu WhatsApp ou rede social"] },
+    { "id": "equipa", "icon": "users", "title": "Parceria de equipa ou comunidade", "text": "Equipas, comunidades e criadores de conteúdo que querem crescer lado a lado com a Aliança — mídia, visibilidade e cenário.", "items": ["Apoio mútuo de divulgação", "Ações conjuntas", "Acordo de longo prazo"] },
+    { "id": "mercado", "icon": "cart", "title": "Vendedor parceiro do Mercado", "text": "Vendes diamantes, contas ou serviços de Free Fire? Entra no Mercado da Aliança com garantias e o Programa de Selos.", "items": ["Venda com intermediação da Aliança", "Programa de Selos de confiança", "Visibilidade junto dos membros"] }
+  ],
+  "steps": [
+    { "title": "Fala connosco", "text": "Envia uma mensagem no WhatsApp a dizer quem és e o que queres divulgar." },
+    { "title": "Conversamos", "text": "Analisamos a tua proposta e mostramos o formato que melhor se encaixa." },
+    { "title": "Fechamos o acordo", "text": "Combinamos valores, prazos e o que cada lado entrega — tudo claro e por escrito." },
+    { "title": "Bora divulgar", "text": "A tua marca chega à comunidade e acompanhamos os resultados contigo." }
+  ],
+  "rules": [
+    "Só divulgamos produtos e serviços legítimos.",
+    "Burlas não entram — a mesma regra de tolerância zero do Mercado.",
+    "O conteúdo tem de ser respeitoso e adequado à comunidade.",
+    "Cada acordo é combinado diretamente com a administração da Aliança."
+  ],
+  "partners": [
+    { "name": "Angola Bet Free Fire", "text": "Equipa parceira com compromisso de mídia, visibilidade e crescimento do cenário.", "news": "angola-bet-boas-vindas" },
+    { "name": "Arena dos Campeões", "text": "Parceria temporária com o torneio, com guildas da Aliança inscritas.", "news": "arena-dos-campeoes-parceria" }
+  ]
+}

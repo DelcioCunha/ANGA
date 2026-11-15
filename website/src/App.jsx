@@ -14,6 +14,7 @@ import Rules from './pages/Rules/Rules';
 import Gallery from './pages/Gallery/Gallery';
 import Expelled from './pages/Expelled/Expelled';
 import Contact from './pages/Contact/Contact';
+import Partnerships from './pages/Partnerships/Partnerships';
 import NotFound from './pages/NotFound/NotFound';
 
 /* HashRouter: funciona em qualquer hosting estático sem configurar o servidor. */
@@ -35,6 +36,7 @@ export default function App() {
           <Route path="noticias/:id" element={<Article />} />
           <Route path="galeria" element={<Gallery />} />
           <Route path="regras" element={<Rules />} />
+          <Route path="parcerias" element={<Partnerships />} />
           <Route path="contactos" element={<Contact />} />
           <Route path="*" element={<NotFound />} />
         </Route>

@@ -25,7 +25,7 @@ export default function Navbar() {
     return () => document.removeEventListener('keydown', onKey);
   }, [open]);
 
-  const primary = site.nav.filter((n) => ['/', '/sobre', '/liga', '/guildas', '/mercado', '/eventos', '/galeria'].includes(n.to));
+  const primary = site.nav.filter((n) => ['/', '/sobre', '/liga', '/guildas', '/mercado', '/eventos', '/galeria', '/parcerias'].includes(n.to));
 
   return (
     <>
