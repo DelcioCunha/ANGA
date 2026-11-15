@@ -117,7 +117,8 @@ if (league) {
       checkList(`${w}:rounds`, s.rounds || [], ['id', 'round', 'phase', 'date', 'image', 'title'], {
         each: (r, rw) => {
           checkAsset(rw, r.thumb);
-          if (!['inicio', 'fim'].includes(r.phase)) err(rw, `phase deve ser "inicio" ou "fim"`);
+          if (!['inicio', 'fim', 'contagem'].includes(r.phase)) err(rw, `phase deve ser "inicio", "fim" ou "contagem"`);
+          if (r.phase === 'contagem' && !(Number.isInteger(r.days) && r.days > 0)) err(rw, `contagem precisa de "days" (inteiro > 0)`);
         },
       });
     },

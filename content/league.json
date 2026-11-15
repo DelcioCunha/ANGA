@@ -46,13 +46,13 @@
   "documents": [
     {
       "id": "tabela-a",
-      "title": "Tabela oficial 02/10 — posições 1 a 13",
-      "image": "/assets/league/tabela-2026-10-02-a.webp"
+      "title": "Tabela oficial 15/11 — posições 1 a 13",
+      "image": "/assets/league/tabela-2026-11-15-a.webp"
     },
     {
       "id": "tabela-b",
-      "title": "Tabela oficial 02/10 — posições 13 a 24",
-      "image": "/assets/league/tabela-2026-10-02-b.webp"
+      "title": "Tabela oficial 15/11 — posições 9 a 20",
+      "image": "/assets/league/tabela-2026-11-15-b.webp"
     }
   ],
   "seasons": [
@@ -67,202 +67,166 @@
       "currentRound": 25,
       "totalRounds": 25,
       "followers": 63,
-      "standingsUpdated": "2026-10-02",
+      "standingsUpdated": "2026-11-15",
       "champion": "",
       "example": false,
       "standings": [
         {
           "team": "ANGOMONARCAS",
           "guildId": "angomonarcas",
-          "points": 45,
-          "played": 19,
-          "wins": 15,
+          "points": 60,
+          "played": 24,
+          "wins": 20,
           "losses": 4,
-          "roomsWon": 48
+          "roomsWon": 63
         },
         {
           "team": "NASA E-S",
           "guildId": "nasa-e-s",
+          "points": 45,
+          "played": 24,
+          "wins": 15,
+          "losses": 8,
+          "roomsWon": 50
+        },
+        {
+          "team": "ANGO FIRE",
+          "guildId": "ango-fire",
           "points": 33,
-          "played": 19,
+          "played": 14,
           "wins": 11,
-          "losses": 7,
-          "roomsWon": 38
+          "losses": 1,
+          "roomsWon": 33
+        },
+        {
+          "team": "HASHIRAS",
+          "guildId": "hashiras",
+          "points": 30,
+          "played": 17,
+          "wins": 10,
+          "losses": 4,
+          "roomsWon": 32
         },
         {
           "team": "DARK PRIME",
           "guildId": "dark-prime",
+          "points": 30,
+          "played": 22,
+          "wins": 10,
+          "losses": 12,
+          "roomsWon": 37
+        },
+        {
+          "team": "2.2",
+          "guildId": "dois-ponto-dois",
           "points": 24,
-          "played": 17,
+          "played": 18,
+          "wins": 8,
+          "losses": 8,
+          "roomsWon": 26
+        },
+        {
+          "team": "TRAPSTAR",
+          "guildId": "trapstar",
+          "points": 24,
+          "played": 20,
           "wins": 8,
           "losses": 9,
           "roomsWon": 27
         },
         {
-          "team": "ANGO FIRE",
-          "guildId": "ango-fire",
-          "points": 21,
-          "played": 9,
-          "wins": 7,
-          "losses": 0,
-          "roomsWon": 21
-        },
-        {
-          "team": "2.2",
-          "guildId": "dois-ponto-dois",
-          "points": 21,
-          "played": 14,
-          "wins": 7,
-          "losses": 5,
-          "roomsWon": 23
-        },
-        {
-          "team": "HASHIRAS",
-          "guildId": "hashiras",
-          "points": 18,
-          "played": 11,
-          "wins": 6,
-          "losses": 2,
-          "roomsWon": 18
-        },
-        {
-          "team": "TRAPSTAR",
-          "guildId": "trapstar",
-          "points": 15,
-          "played": 16,
-          "wins": 5,
-          "losses": 8,
-          "roomsWon": 17
-        },
-        {
-          "team": "CAPITÃO 244",
-          "guildId": "capitao-244",
-          "points": 9,
-          "played": 4,
-          "wins": 3,
-          "losses": 1,
-          "roomsWon": 9
-        },
-        {
           "team": "DARKSHADOW",
           "guildId": "darkshadow",
-          "points": 9,
-          "played": 8,
-          "wins": 3,
-          "losses": 5,
-          "roomsWon": 9
-        },
-        {
-          "team": "IMBONDEIROS",
-          "guildId": "imbondeiros",
-          "points": 6,
-          "played": 5,
-          "wins": 2,
-          "losses": 1,
-          "roomsWon": 6
-        },
-        {
-          "team": "TM7",
-          "guildId": "tm7",
-          "points": 6,
-          "played": 5,
-          "wins": 2,
-          "losses": 3,
-          "roomsWon": 6
+          "points": 15,
+          "played": 13,
+          "wins": 5,
+          "losses": 6,
+          "roomsWon": 15
         },
         {
           "team": "NAKAMA FF",
           "guildId": "nakama-ff",
-          "points": 3,
-          "played": 18,
-          "wins": 13,
+          "points": 12,
+          "played": 22,
+          "wins": 16,
           "losses": 4,
-          "roomsWon": 42
-        },
-        {
-          "team": "HYDRA",
-          "guildId": "hydra",
-          "points": 3,
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "roomsWon": 3
-        },
-        {
-          "team": "NOX U.Z.K",
-          "guildId": "nox-u-z-k",
-          "points": 3,
-          "played": 2,
-          "wins": 1,
-          "losses": 0,
-          "roomsWon": 3
-        },
-        {
-          "team": "BANDADIT",
-          "guildId": "bandadit",
-          "points": 3,
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "roomsWon": 3
+          "roomsWon": 51
         },
         {
           "team": "NX NEXUS",
           "guildId": "nx-nexus",
-          "points": 3,
-          "played": 2,
-          "wins": 1,
-          "losses": 1,
-          "roomsWon": 3
+          "points": 12,
+          "played": 6,
+          "wins": 4,
+          "losses": 2,
+          "roomsWon": 13
         },
         {
-          "team": "RAGNAROK AO",
-          "guildId": "ragnarok-ao",
-          "points": 3,
-          "played": 2,
-          "wins": 1,
-          "losses": 1,
-          "roomsWon": 3
+          "team": "IMBONDEIROS",
+          "guildId": "imbondeiros",
+          "points": 12,
+          "played": 10,
+          "wins": 4,
+          "losses": 3,
+          "roomsWon": 12
         },
         {
-          "team": "PARADOXO",
-          "guildId": "paradoxo",
-          "points": 3,
-          "played": 3,
-          "wins": 1,
-          "losses": 1,
-          "roomsWon": 3
-        },
-        {
-          "team": "ANG ESPORT",
-          "guildId": "ang-esport",
-          "points": 3,
-          "played": 3,
-          "wins": 1,
-          "losses": 1,
-          "roomsWon": 3
+          "team": "TM7",
+          "guildId": "tm7",
+          "points": 12,
+          "played": 10,
+          "wins": 4,
+          "losses": 6,
+          "roomsWon": 13
         },
         {
           "team": "AOA 07",
           "guildId": "aoa-07",
-          "points": 3,
-          "played": 3,
-          "wins": 1,
-          "losses": 2,
-          "roomsWon": 4
+          "points": 9,
+          "played": 7,
+          "wins": 3,
+          "losses": 3,
+          "roomsWon": 10
         },
         {
-          "team": "DC ANGOLA",
-          "guildId": "dc-angola",
-          "points": 3,
-          "played": 3,
-          "wins": 1,
-          "losses": 2,
-          "roomsWon": 3
+          "team": "PARADOXO",
+          "guildId": "paradoxo",
+          "points": 9,
+          "played": 7,
+          "wins": 3,
+          "losses": 3,
+          "roomsWon": 9
         },
         {
           "team": "DC 999",
           "guildId": "dc-999",
+          "points": 9,
+          "played": 6,
+          "wins": 3,
+          "losses": 3,
+          "roomsWon": 10
+        },
+        {
+          "team": "OVERLORD AO",
+          "guildId": "overlord-ao",
+          "points": 6,
+          "played": 4,
+          "wins": 2,
+          "losses": 2,
+          "roomsWon": 7
+        },
+        {
+          "team": "BANDADIT",
+          "guildId": "bandadit",
+          "points": 6,
+          "played": 5,
+          "wins": 2,
+          "losses": 3,
+          "roomsWon": 9
+        },
+        {
+          "team": "KINGS ESPORT",
+          "guildId": "kings-esport",
           "points": 0,
           "played": 1,
           "wins": 0,
@@ -270,8 +234,8 @@
           "roomsWon": 1
         },
         {
-          "team": "ANGO SENSI",
-          "guildId": "ango-sensi",
+          "team": "CAPITÃO 244",
+          "guildId": "capitao-244",
           "points": 0,
           "played": 1,
           "wins": 0,
@@ -279,12 +243,12 @@
           "roomsWon": 0
         },
         {
-          "team": "TROPA DO PAU",
-          "guildId": "tropa-do-pau",
+          "team": "FX FURIA",
+          "guildId": "fx-furia",
           "points": 0,
-          "played": 2,
+          "played": 0,
           "wins": 0,
-          "losses": 2,
+          "losses": 0,
           "roomsWon": 0
         }
       ],
@@ -638,10 +602,43 @@
           "thumb": "/assets/league/rodadas/mini/r24-fim.webp",
           "title": "Fim da Rodada 24 — que vença o melhor",
           "text": "24 rodadas de muito esforço. Até à próxima rodada!"
+        },
+        {
+          "id": "r25-contagem-3",
+          "round": "25",
+          "phase": "contagem",
+          "days": 3,
+          "date": "2026-11-13",
+          "image": "/assets/league/rodadas/r25-contagem-3.webp",
+          "thumb": "/assets/league/rodadas/mini/r25-contagem-3.webp",
+          "title": "Faltam 3 dias para a Rodada 25",
+          "text": "A contagem decrescente para a rodada final da Liga Aliança começou."
+        },
+        {
+          "id": "r25-contagem-2",
+          "round": "25",
+          "phase": "contagem",
+          "days": 2,
+          "date": "2026-11-14",
+          "image": "/assets/league/rodadas/r25-contagem-2.webp",
+          "thumb": "/assets/league/rodadas/mini/r25-contagem-2.webp",
+          "title": "Faltam 2 dias para a Rodada 25",
+          "text": "Dois dias para a última rodada da Temporada 1. Preparem as guildas!"
+        },
+        {
+          "id": "r25-contagem-1",
+          "round": "25",
+          "phase": "contagem",
+          "days": 1,
+          "date": "2026-11-15",
+          "image": "/assets/league/rodadas/r25-contagem-1.webp",
+          "thumb": "/assets/league/rodadas/mini/r25-contagem-1.webp",
+          "title": "Falta 1 dia para a Rodada 25",
+          "text": "Amanhã arranca a rodada final que decide o campeão da Temporada 1."
         }
       ],
       "roundStatus": "next",
-      "roundStatusLabel": "Próxima: Rodada 25 — a decisão"
+      "roundStatusLabel": "Falta 1 dia: Rodada 25 — a decisão"
     }
   ],
   "rulesIntro": "Os líderes devem estar cientes de que as regras das salas são claras.",

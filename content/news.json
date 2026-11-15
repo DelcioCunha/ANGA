@@ -1,5 +1,39 @@
 [
   {
+    "id": "falta-1-dia-rodada-25",
+    "title": "Falta 1 dia para a Rodada 25 — a rodada final",
+    "date": "2026-11-15",
+    "category": "Liga",
+    "image": "/assets/news/falta-1-dia-rodada-25.webp",
+    "thumb": "/assets/news/mini/falta-1-dia-rodada-25.webp",
+    "excerpt": "A contagem decrescente chegou ao fim: amanhã arranca a Rodada 25, a rodada que decide o campeão da Temporada 1 da Liga Aliança.",
+    "body": [
+      "Faltam 3 dias, faltam 2 dias… e agora falta só 1 dia.",
+      "A Rodada 25 é a rodada final da Temporada 1 da Liga Aliança. Depois de 24 rodadas, chegou a hora da decisão.",
+      "ANGOMONARCAS lidera com 60 pontos, seguida da NASA E-S com 45 e da ANGO FIRE com 33. Tudo se decide agora.",
+      "Que vença o melhor. Juntos somos mais fortes!"
+    ],
+    "featured": true,
+    "example": false
+  },
+  {
+    "id": "tabela-15-11-expulsoes",
+    "title": "Tabela atualizada: 20 guildas na reta final",
+    "date": "2026-11-15",
+    "category": "Liga",
+    "image": "/assets/league/tabela-2026-11-15-a.webp",
+    "thumb": "/assets/league/tabela-2026-11-15-a.webp",
+    "excerpt": "A tabela oficial de 15/11 tem 20 guildas. Entraram OVERLORD AO, KINGS ESPORT e FX FURIA; 7 guildas saíram da Liga.",
+    "body": [
+      "A tabela oficial da Liga Aliança foi atualizada a 15/11/2026, véspera da Rodada 25.",
+      "ANGOMONARCAS mantém a liderança com 60 pontos e 20 vitórias, seguida da NASA E-S (45) e da ANGO FIRE (33).",
+      "Estrearam na tabela as guildas OVERLORD AO, KINGS ESPORT e FX FURIA.",
+      "As guildas HYDRA, NOX U.Z.K, RAGNAROK AO, ANG ESPORT, DC ANGOLA, ANGO SENSI, TROPA DO PAU já não constam da tabela e passaram para a lista de guildas expulsas da Aliança."
+    ],
+    "featured": false,
+    "example": false
+  },
+  {
     "id": "fim-rodada-24",
     "title": "Fim da Rodada 24: que vença o melhor",
     "date": "2026-11-07",

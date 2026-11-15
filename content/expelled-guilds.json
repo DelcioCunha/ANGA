@@ -1,5 +1,75 @@
 [
   {
+    "id": "tropa-do-pau",
+    "name": "TROPA DO PAU",
+    "logo": "/assets/guilds/expulsas/tropa-do-pau.webp",
+    "groupCreated": "2026-05-30",
+    "recorded": "2026-11-15",
+    "members": 27,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "ango-sensi",
+    "name": "ANGO SENSI",
+    "logo": "/assets/guilds/expulsas/ango-sensi.webp",
+    "groupCreated": "2026-08-13",
+    "recorded": "2026-11-15",
+    "members": 16,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "dc-angola",
+    "name": "DC ANGOLA",
+    "logo": "/assets/guilds/expulsas/dc-angola.webp",
+    "groupCreated": "2026-05-14",
+    "recorded": "2026-11-15",
+    "members": 19,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "ang-esport",
+    "name": "ANG ESPORT",
+    "logo": "/assets/guilds/expulsas/ang-esport.webp",
+    "groupCreated": "2026-07-23",
+    "recorded": "2026-11-15",
+    "members": 20,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "ragnarok-ao",
+    "name": "RAGNAROK AO",
+    "logo": "/assets/guilds/expulsas/ragnarok-ao.webp",
+    "groupCreated": "2026-09-07",
+    "recorded": "2026-11-15",
+    "members": 20,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "nox-u-z-k",
+    "name": "NOX U.Z.K",
+    "logo": "/assets/guilds/expulsas/nox-u-z-k.webp",
+    "groupCreated": "2026-05-13",
+    "recorded": "2026-11-15",
+    "members": 37,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
+    "id": "hydra",
+    "name": "HYDRA",
+    "logo": "/assets/guilds/expulsas/hydra.webp",
+    "groupCreated": "2026-09-24",
+    "recorded": "2026-11-15",
+    "members": 22,
+    "status": "expelled",
+    "reason": "Saiu da tabela da Liga Aliança na atualização de 15/11/2026."
+  },
+  {
     "id": "bil-ex",
     "name": "BIL EX",
     "logo": "/assets/guilds/expulsas/bil-ex.webp",

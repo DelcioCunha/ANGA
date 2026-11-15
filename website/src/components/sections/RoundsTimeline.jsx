@@ -2,6 +2,11 @@ import { useMemo, useState } from 'react';
 import Lightbox from '../common/Lightbox';
 import { asset, dateParts } from '../../utils/format';
 
+const phaseLabel = (r) => {
+  if (r.phase === 'contagem') return r.days === 1 ? 'Falta 1 dia' : `Faltam ${r.days} dias`;
+  return r.phase === 'inicio' ? 'Início' : 'Fim';
+};
+
 /** Linha do tempo das rodadas: cada rodada com o cartaz de início e/ou fim. */
 export default function RoundsTimeline({ rounds, current }) {
   const [open, setOpen] = useState(null);
@@ -23,7 +28,9 @@ export default function RoundsTimeline({ rounds, current }) {
             <header className="round__head">
               <span className="round__label">Rodada</span>
               <strong className="round__num">{g.round}</strong>
-              {String(current) === g.round && <span className="badge badge--red badge--live"><span className="dot" />A decorrer</span>}
+              {String(current) === g.round && (g.items.every((r) => r.phase === 'contagem')
+                ? <span className="badge badge--violet"><span className="dot" />Em breve</span>
+                : <span className="badge badge--red badge--live"><span className="dot" />A decorrer</span>)}
             </header>
             <div className="round__posters">
               {g.items.map((r) => {
@@ -31,7 +38,7 @@ export default function RoundsTimeline({ rounds, current }) {
                 return (
                   <button key={r.id} className="round__poster" onClick={() => setOpen(flat.indexOf(r))} aria-label={`Ver cartaz: ${r.title}`}>
                     <img src={asset(r.thumb || r.image)} alt="" loading="lazy" decoding="async" />
-                    <span className={`round__phase round__phase--${r.phase}`}>{r.phase === 'inicio' ? 'Início' : 'Fim'} · {d.day} {d.month}</span>
+                    <span className={`round__phase round__phase--${r.phase}`}>{phaseLabel(r)} · {d.day} {d.month}</span>
                   </button>
                 );
               })}

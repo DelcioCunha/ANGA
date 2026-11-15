@@ -126,6 +126,7 @@
 .round__phase { position: absolute; left: 6px; bottom: 6px; padding: 3px 8px; border-radius: 99px; font-size: 0.7rem; font-weight: 600; background: rgba(0, 0, 0, 0.75); color: #fff; }
 .round__phase--inicio { color: #86efac; }
 .round__phase--fim { color: #ffd666; }
+.round__phase--contagem { color: #c4b5fd; }
 
 /* ---------- Mercado ---------- */
 .market-banner { align-items: start; }
